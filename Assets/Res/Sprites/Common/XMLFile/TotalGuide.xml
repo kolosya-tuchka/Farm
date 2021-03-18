@@ -1,0 +1,10 @@
+﻿<Data>
+  <data mission="1">
+    <interface name="Farm"/>
+    <interface name="Factory"/>
+  </data>
+  <data mission="2">
+    <interface name="Shop"/>
+    <interface name="City"/>
+  </data>
+</Data>

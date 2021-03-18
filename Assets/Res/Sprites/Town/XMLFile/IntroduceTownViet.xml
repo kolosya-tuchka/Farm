@@ -1,0 +1,40 @@
+<Introduce Scren="Town" language="VietNam">
+  <Level Level="2">
+    <Content  Text="Thành phố có các tòa nhà sẽ giúp ích cho công việc quản lý của bạn. Đầu tiên, bạn hãy cùng tôi tới tòa nhà Staff để thuê nhân viên nhé! Chạm vào tòa nhà Staff."/>
+    <Content  Text="Mỗi nhân viên đều có chỉ số về độ tập trung, thể lực, tinh thần và giá thuê khác nhau. Chỉ số càng cao, nhân viên càng tốt. Chạm vào nút Thuê để thuê ngay!"/>
+  </Level>
+  <Level Level="7">
+    <Content  Text="Đây là tòa nhà Lottery, nơi bạn sẽ nhận được những vật phẩm giá trị từ vòng quay may mắn."/>
+    <Content  Text="Vào chủ nhật hàng tuần, bạn sẽ được thưởng một lượt quay miễn phí. Chạm vào tòa nhà để đến với vòng quay may mắn đầu tiên!"/>
+  </Level>
+  <Level Level="11">
+    <Content  Text="Đôi khi bạn gặp khó trong việc định hướng nuôi trồng, sản xuất vì bạn không biết về nhu cầu của khách hàng. Đừng lo lắng, tòa nhà Market Research sẽ giúp bạn trả lời câu hỏi đó!"/>
+    <Content  Text="Tòa nhà Market Research sẽ giúp bạn nghiên cứu thị trường, thu thập nhu cầu của khách hàng và trả về cho bạn kết quả nhanh nhất."/>
+    <Content  Text="Bạn có thể hỏi ý kiến của các chuyên gia về thị trường, thuê công ty nghiên cứu, thực hiện chuyến đi khảo sát thực tế hay làm một vài thử nghiệm. Hôm nay tôi sẽ hướng dẫn bạn phương pháp hỏi ý kiến chuyên gia."/>
+    <Content  Text="Thật đơn giản phải không! Mỗi chuyên gia có khả năng dự đoán chính xác khác nhau, độ chính xác càng cao thì giá thuê càng lớn."/>
+    <Content  Text="Kết quả nghiên cứu được đưa ra ngay lập tức. Bạn có thể xem kết quả bất cứ lúc nào và bất cứ nơi đâu bạn muốn."/>
+  </Level>
+  <Level Level="15">
+    <Content  Text="Công việc ngày càng thuận lợi, bạn cần phải mở rộng kinh doanh nhiều loại sản phẩm khác nhau để phục vụ nhu cầu của khách hàng. Để làm được điều đó, bạn cần cải tạo, nâng cấp cho nông trại và nhà máy của mình."/>
+    <Content  Text="Tòa nhà Technology sẽ giúp bạn nâng cấp máy móc, cải tạo ruộng, chuồng để phục vụ cho việc nuôi trồng, sản xuất. Đầu tiên, hãy nâng cấp ruộng nhé."/>
+    <Content  Text="Bạn có thể chờ đợi 2 ngày để nâng cấp xong hoặc sử dụng kim cương để nâng cấp ngay lập tức. Bạn hãy nhớ rằng bạn chỉ nâng cấp được những máy móc bạn đang có trong nhà máy. Hãy bắt đầu công việc ngay bây giờ nhé!"/>
+  </Level>
+  <Level Level="18">
+    <Content  Text="Khi bạn thấy khách hàng quá ít, bạn cần phải thực hiện các phương pháp để thu hút khách hàng, đó là một chiến lược trong kinh doanh."/>
+    <Content  Text="Tòa nhà Multimedia sẽ cung cấp cho bạn các phương pháp để tăng thêm khách hàng. Mỗi phương pháp sẽ cần một khoảng thời gian thực hiện nhưng bạn có thể sử dụng kim cương để cho kết quả ngay lập tức."/>
+  </Level>
+   <Level Level="21">
+    <Content  Text="Tòa nhà mà tôi nói tới chính là tòa nhà Super Market. Nếu bạn không kịp sản xuất sản phẩm để bán, bạn có thể mua các sản phẩm trong tòa nhà này."/>
+    <Content  Text="Super Market cung cấp tất cả sản phẩm mà bạn cần. Bạn hãy chạm vào tòa nhà và chọn sản phẩm phù hợp."/>
+  </Level>
+  <Level Level="26">
+    <Content  Text="Bạn cần phải đào tạo nhân viên để tăng thể lực, củng cố tính thần, tạo động lực làm việc cho họ."/>
+    <Content  Text="Mỗi lần đào tạo, các chỉ số về độ tập trung, thể lực, tinh thần của nhân viên sẽ được nâng cao, nhân viên sẽ tập trung làm việc hơn."/>
+    <Content  Text="Để hoàn thành một khóa đào tạo cần phải có thời gian, nếu bạn không muốn chờ đợi bạn có thể sử dụng kim cương để hoàn thành nó ngay lập tức!"/>
+  </Level>
+  <Level Level="50">
+    <Content  Text="Chuyến đi thực tế sẽ đưa bạn đến một ngôi làng với 20 hộ dân. Mục đích của bạn là tìm ra nhu cầu của từng hộ dân và từ đó để sản xuất các sản phẩm. "/>
+    <Content  Text="Bạn có thể nghiên cứu một hay nhiều hộ gia đình, và sau kho có kết quả bạn có xem nó ở bất cứ đâu."/>
+    <Content  Text="Thật dễ dàng phải không. Hãy bắt đầu công việc ngày hôm nay nhé!"/>
+  </Level>
+</Introduce>

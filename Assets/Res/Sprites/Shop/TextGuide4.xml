@@ -1,0 +1,37 @@
+﻿<Data>
+  <guide id="1" textV="Bạn hãy luôn chú ý đến thời gian để hoàn thành nhiệm vụ nhanh nhất."
+         textE="If you want to complete mission, you need attend to remaining time which show up in the time bar." />
+  <guide id="2" textV="Nếu bạn cảm thấy không hài lòng với nhân viên thì bạn có thể sa thải họ. Chạm vào nhân viên và chọn sa thải."
+         textE="Next, I will guide you how to fire staffs if you are not content with them.Tap into the staff and select fire button."/>
+  <guide id="3" textV="xxx" textE="xxx">
+    <hand posi="-100;75" size="35"/>
+  </guide>
+  <guide id="4" textV="xxx" textE="xxx">
+    <hand posi="-150;110" size="30"/>
+  </guide>
+  <guide id="5" textV="xxx" textE="xxx">
+    <hand posi="-165;-165" size="30"/>
+  </guide>
+  <guide id="6" textV="Thật đơn giản phải không! Hai nhân viên còn lại đã sẵn sàng cho công việc bán hàng rồi đấy."
+         textE="It's very simple! The remaining staffs are ready to sell product."/>
+  <guide id="7" textV="Và bây giờ, chúng ta sẽ tới nông trại để xem điều thú vị gì tiếp theo nhé!"
+         textE="Let's go to the Farm to continue!"/>
+  <guide id="8" textV="xxx" textE="xxx">
+    <hand posi="580;125" size="40"/>
+  </guide>
+</Data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+<MultimediaInformation>
+		<Flyer    ID="1" EngName="FLYER"    	VieName="TỜ RƠI" 		    MinRation="10" 	MaxRation="18" Time="48" Cost="120" />
+		<Magazine ID="2" EngName="MAGAZINE" 	VieName="SÁCH BÁO" 		  MinRation="18" 	MaxRation="26" Time="48" Cost="210" />
+		<Internet ID="3" EngName="INTERNET" 	VieName="INTERNET"      MinRation="26" 	MaxRation="34" Time="48" Cost="300" />
+		<Internet ID="4" EngName="RADIO" 		  VieName="RADIO" 	      MinRation="34" 	MaxRation="42" Time="24" Cost="370" />
+		<Internet ID="5" EngName="TELEVISON" 	VieName="TELEVISION" 	  MinRation="42" 	MaxRation="50" Time="24" Cost="450" />
+</MultimediaInformation>

@@ -1,0 +1,15 @@
+<MaketResearchInforType>
+<Eng>
+<Content ID="0" Name="SPECIALIST" 		Infor="Specialist will help you for research and give you result with high accuracy. Choose someone you enjoy!." />
+<Content ID="1" Name="RESEARCH COMPANY" 		  Infor="You can hire the company. They will make a market research and give you a result as soon as possible." />
+<Content ID="2" Name="PRATICAL TRIP" 		  Infor="You will have trip in a town. Your mission is talk them about their demand." />
+<Content ID="3" Name="TESTING" 				    Infor="You will buy products in super market and then sell them in your shop. Your mission is make a report about customers demand base on the number of products sold." />
+</Eng>
+<Vie>
+<Content ID="0" Name="CHUYÊN GIA" 		Infor="Các chuyên gia sẽ giúp bạn phân tích thị trường và đưa ra kết quả chính xác nhất. Hãy chọn 1 trong số họ." />
+<Content ID="1" Name="CÔNG TY NGHIÊN CỨU" 		  Infor="Hãy thuê các công ty dưới đây, họ sẽ giúp bạn khảo sát nhu cầu của khách hàng và trả lại kết quả trong thời gian sớm nhất." />
+<Content ID="2" Name="KHẢO SÁT THỰC TẾ" 	Infor="Bạn sẽ có chuyến đi tại một thị trấn. Nhiệm vụ của bạn là nói chuyện với họ về nhu cầu của họ." />
+<Content ID="3" Name="THỬ NGHIỆM" 			  Infor="Bạn sẽ mua sản phẩm trong siêu thị và bán chúng trong cửa hàng. Nhiệm vụ của bạn là làm báo cáo về nhu cầu khách hàng căn cứ vào số lượng sản phẩm bán ra." />
+</Vie>
+
+</MaketResearchInforType>

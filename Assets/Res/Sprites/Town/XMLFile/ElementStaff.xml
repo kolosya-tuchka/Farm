@@ -1,0 +1,26 @@
+﻿<StaffElement>
+  <Staff id="1" name="Sakura">
+    <Level id="1" speed="40" health="40" mental="70" cost="120" percent="20"/>
+    <Level id="2" speed="10-20" health="5-10" mental="5" cost="60" percent="15"/>
+    <Level id="3" speed="8-15" health="10-15" mental="5-10" cost="70" percent="10"/>
+    <Level id="4" speed="15-20" health="12-15" mental="5" cost="80" percent="5"/>
+  </Staff>
+  <Staff id="2" name="Peter">
+    <Level id="1" speed="40" health="80" mental="30" cost="140" percent="17"/>
+    <Level id="2" speed="8-15" health="10" mental="10" cost="70" percent="12"/>
+    <Level id="3" speed="5-10" health="5" mental="8-15" cost="80" percent="8"/>
+    <Level id="4" speed="10-15" health="5" mental="10-15" cost="90" percent="4"/>
+  </Staff>
+  <Staff id="3" name="Sarah">
+    <Level id="1" speed="55" health="50" mental="60" cost="160" percent="15"/>
+    <Level id="2" speed="10" health="10" mental="5-10" cost="80" percent="10"/>
+    <Level id="3" speed="5-10" health="10" mental="10" cost="90" percent="7"/>
+    <Level id="4" speed="10-15" health="10" mental="10-15" cost="95" percent="3"/>
+  </Staff>
+  <Staff id="4" name="Nam">
+    <Level id="1" speed="65" health="70" mental="60" cost="190" percent="11"/>
+    <Level id="2" speed="5-10" health="10" mental="10" cost="90" percent="8"/>
+    <Level id="3" speed="10" health="10" mental="10-15" cost="95" percent="4"/>
+    <Level id="4" speed="10" health="5-10" mental="10" cost="100" percent="1"/>
+  </Staff>
+</StaffElement>

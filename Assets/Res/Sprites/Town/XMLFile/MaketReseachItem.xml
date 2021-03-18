@@ -1,0 +1,12 @@
+<MaketReseachItem>
+<Content Id="0" NameEng="Bill Gate" 		  NameVie="Bill Gate" 			      PrecisionMax="95" PrecisionMin="85" CostDiamond="3" CostCoin="0" 	  time="0" />
+<Content Id="1" NameEng="Obama" 			    NameVie="Obama" 				        PrecisionMax="85" PrecisionMin="75" CostDiamond="2" CostCoin="0" 	  time="0" />
+<Content Id="2" NameEng="Ngo Bao Chau" 		NameVie="Ngô Bảo Châu" 			    PrecisionMax="75" PrecisionMin="65" CostDiamond="1" CostCoin="0" 	  time="0" />
+<Content Id="3" NameEng="Michael Jackson" NameVie="Michael Jackson" 	    PrecisionMax="85" PrecisionMin="75" CostDiamond="0" CostCoin="410"  time="0" />
+<Content Id="4" NameEng="Monkey" 			    NameVie="Khỉ Con" 				      PrecisionMax="75" PrecisionMin="65" CostDiamond="0" CostCoin="200" 	time="0" />
+<Content Id="5" NameEng="" 			          NameVie="" 				              PrecisionMax="95" PrecisionMin="85" CostDiamond="0" CostCoin="540"  time="24" />
+<Content Id="6" NameEng="" 			          NameVie="" 				              PrecisionMax="85" PrecisionMin="75" CostDiamond="0" CostCoin="320"  time="24" />
+<Content Id="7" NameEng="" 			          NameVie="" 				              PrecisionMax="75" PrecisionMin="65" CostDiamond="0" CostCoin="150"  time="48" />
+<Content Id="8" NameEng="" 			          NameVie="" 				              PrecisionMax="65" PrecisionMin="60" CostDiamond="0" CostCoin="120" 	time="48" />
+<Content Id="9" NameEng="" 			          NameVie="" 				              PrecisionMax="60" PrecisionMin="65" CostDiamond="0" CostCoin="100" 	time="72" />
+</MaketReseachItem>

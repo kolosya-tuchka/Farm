@@ -1,0 +1,12 @@
+<IntroduceLevel Scren="Town">
+  <Data>
+    <Level ID="2" />
+    <Level ID="7" />
+    <Level ID="11" />
+    <Level ID="15"/>
+    <Level ID="18"/>
+    <Level ID="21"/>
+    <Level ID="26"/>
+    <Level ID="50"/>
+  </Data>
+</IntroduceLevel>

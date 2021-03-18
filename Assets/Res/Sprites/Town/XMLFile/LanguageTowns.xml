@@ -1,0 +1,43 @@
+﻿<LanguageTowns>
+  <MAKET Eng="SUPERMARKET" Vie="SIÊU THỊ"/>
+  <FreeSpin Eng="Free Spin" Vie="Miễn Phí"/>
+  <AgainSpin Eng="Spin Again" Vie="Quay Lại"/>
+  <Spin Eng="Spin" Vie="Quay"/>
+  <MULTIMEDIA Eng="MULTIMEDIA" Vie="TRUYỀN THÔNG"/>
+  <FLYER Eng="FLYER" Vie="TỜ RƠI"/>
+  <MAGAZINE Eng="MAGAZINE" Vie="SÁCH BÁO" />
+  <INTERNET Eng="INTERNET" Vie="INTERNET" />
+  <RADIO Eng="RADIO" Vie="RADIO"/>
+  <TELEVISON Eng="TELEVISON" Vie="TELEVISON"/>
+  <TextTypeMul Eng="Increase your customer by using " Vie="Tăng số lượng khách hàng bằng hình thức "/>
+  <IncreaseCustomer Eng="Increase Customer:" Vie="Tỉ lệ tăng:" />
+  <Time Eng="Time:" Vie="Thời Gian:" />
+  <Cost Eng="Cost:" Vie="Giá Tiền:" />
+  <Apply Eng="Apply" Vie="Sử Dụng"/>
+  <Percent Eng="Percent:" Vie="Phần Trăm:" />
+  <MARKETRESEARCH Eng="MARKET RESEARCH" Vie="NGHIÊN CỨU THỊ TRƯỜNG" />
+  <CONGRATULATIONS Eng="CONGRATULATIONS" Vie="CHÚC MỪNG" />
+  <MutilmediaResultOne Eng="YOU'VE EARNED " Vie="BẠN TĂNG THÊM " />
+  <MutilmediaResultTow Eng="% OF CUSTOMERS" Vie="% LƯỢNG KHÁCH" />
+  <MaketResearchResult Eng="Customers Demand (Number)" Vie="Nhu Cầu Khách Hàng (Số Lượng)"/>
+  <TECHNOGY Eng="TECHNOLOGY" Vie="CÔNG NGHỆ"/>
+  <WARNING Eng="WARNING" Vie="CẢNH BÁO" />
+  <NoteWarning Eng ="Cancel current research to make a new research?" Vie="Hủy bỏ hình thức nghiên cứu trước để thực hiện nghiên cứu mới?"/>
+  <Machine1 Eng="Bakery Machine" Vie="Máy Làm Bánh" />
+  <Machine2 Eng="BBQ Grill Machine" Vie="Máy Làm Thịt" />
+  <Machine3 Eng="Fruit Machine" Vie="Máy Rửa Hoa Quả" />
+  <Machine4 Eng="Milk Machine" Vie="Máy Làm Sữa" />
+  <Level Eng="Level " Vie="Cấp Độ " />
+  <NextLevel Eng="Next Level" Vie="Cấp Độ Tiếp" />
+  <Productivity Eng="Productivity " Vie="Năng Suất " />
+  <Queue Eng="Queue " Vie="Hàng Chờ " />
+  <NewProduct Eng="New Product" Vie="Sản Phẩm Mới" />
+  <Upgrade Eng="Upgrade" Vie="Nâng Cấp" />
+  <Farm Eng="Field" Vie="Ruộng" />
+  <AnimalFrame Eng="Barn" Vie="Chuồng" />
+  <FishFrame Eng="Pond" Vie="Ao" />
+  <MaxLevel Eng="MAX LEVEL" Vie="CẤP ĐỘ TỐI ĐA" />
+  <Unlock Eng="Unlock In Mission " Vie="Mở Khóa Ở Màn "/>
+  <Immediately Eng="Immediately" Vie="Ngay Lập Tức" />
+  <UpgradeTechnogy Eng="Upgrade is complete!" Vie="Nâng cấp thành công!" />
+</LanguageTowns>

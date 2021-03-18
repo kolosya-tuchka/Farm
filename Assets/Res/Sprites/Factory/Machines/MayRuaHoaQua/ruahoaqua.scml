@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b4">
+    <folder id="0">
+        <file id="0" name="ruahoaqua.png" width="189" height="73" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="ruahoaqua01.png" width="222" height="167" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="ruahoaqua02.png" width="68" height="58" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="ruahoaqua03.png" width="178" height="125" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="ruahoaqua04.png" width="35" height="38" pivot_x="0" pivot_y="1"/>
+        <file id="5" name="ruahoaqua05.png" width="140" height="207" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="ruahoaqua06.png" width="140" height="207" pivot_x="0" pivot_y="1"/>
+        <file id="7" name="ruahoaqua01a.png" width="222" height="167" pivot_x="0" pivot_y="1"/>
+        <file id="8" name="ruahoaqua01c.png" width="222" height="167" pivot_x="0" pivot_y="1"/>
+        <file id="9" name="ruahoaqua01b.png" width="222" height="167" pivot_x="0" pivot_y="1"/>
+        <file id="10" name="ruahoaqua03a.png" width="178" height="125" pivot_x="0" pivot_y="1"/>
+        <file id="11" name="ruahoaqua07.png" width="158" height="237" pivot_x="0" pivot_y="1"/>
+        <file id="12" name="ruahoaqua08a.png" width="158" height="237" pivot_x="0" pivot_y="1"/>
+        <file id="13" name="ruahoaquaa.png" width="189" height="73" pivot_x="0" pivot_y="1"/>
+        <file id="14" name="ruahoaqua08.png" width="158" height="237" pivot_x="0" pivot_y="1"/>
+        <file id="15" name="ruahoaqua07a.png" width="158" height="237" pivot_x="0" pivot_y="1"/>
+        <file id="16" name="ruahoaqua09.png" width="468" height="246" pivot_x="0" pivot_y="1"/>
+        <file id="17" name="ruahoaqua10c.png" width="35" height="38" pivot_x="0" pivot_y="1"/>
+        <file id="18" name="ruahoaqua10g.png" width="222" height="167" pivot_x="0" pivot_y="1"/>
+        <file id="19" name="ruahoaqua10h.png" width="68" height="58" pivot_x="0" pivot_y="1"/>
+        <file id="20" name="ruahoaqua10l.png" width="222" height="167" pivot_x="0" pivot_y="1"/>
+        <file id="21" name="ruahoaqua10m.png" width="222" height="167" pivot_x="0" pivot_y="1"/>
+        <file id="22" name="ruahoaqua10a.png" width="158" height="237" pivot_x="0" pivot_y="1"/>
+        <file id="23" name="ruahoaqua10b.png" width="140" height="207" pivot_x="0" pivot_y="1"/>
+        <file id="24" name="ruahoaqua10d.png" width="178" height="125" pivot_x="0" pivot_y="1"/>
+        <file id="25" name="ruahoaqua10e.png" width="178" height="125" pivot_x="0" pivot_y="1"/>
+        <file id="26" name="ruahoaqua10n.png" width="222" height="167" pivot_x="0" pivot_y="1"/>
+        <file id="27" name="ruahoaqua10.png" width="158" height="237" pivot_x="0" pivot_y="1"/>
+        <file id="28" name="ruahoaqua10t.png" width="189" height="73" pivot_x="0" pivot_y="1"/>
+        <file id="29" name="ruahoaqua10v.png" width="189" height="73" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="entity_000">
+        <animation id="0" name="may1_idle" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_000" folder="0" file="16" abs_x="-161.555556" abs_y="137.555556" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="0" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="7" abs_x="-85.666667" abs_y="141.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="2" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="3" abs_x="-62.238096" abs_y="189.333407" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="5" abs_x="-44.380953" abs_y="256.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="4" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="7" x="131.334348" y="106.324478" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="175.878268" y="83.118377" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="237.725978" y="65.570285" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="137.555556" angle="0" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="1" name="may1_i" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_000" folder="0" file="16" abs_x="-161.555556" abs_y="137.555556" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="28" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="21" abs_x="-85.666667" abs_y="141.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="19" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="25" abs_x="-62.238096" abs_y="189.333407" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="23" abs_x="-44.380953" abs_y="256.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="17" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="28" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="21" x="131.334348" y="106.324478" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="19" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="25" x="175.878268" y="83.118377" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="17" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="23" x="237.725978" y="65.570285" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="137.555556" angle="0" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="2" name="may2_idle" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_000" folder="0" file="16" abs_x="-161.555556" abs_y="137.555556" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="0" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="1" abs_x="-85.666667" abs_y="141.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="2" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="3" abs_x="-62.238096" abs_y="189.333407" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="5" abs_x="-44.380953" abs_y="256.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="4" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+                <key id="1" time="110">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="1" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="0" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="131.334348" y="106.324478" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="1" x="131.334348" y="106.324478" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="175.878268" y="83.118377" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="237.725978" y="65.570285" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="137.555556" angle="0" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="3" name="may2_i" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_000" folder="0" file="16" abs_x="-161.555556" abs_y="137.555556" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="29" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="26" abs_x="-85.666667" abs_y="141.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="19" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="25" abs_x="-62.238096" abs_y="189.333407" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="23" abs_x="-44.380953" abs_y="256.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="17" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+                <key id="1" time="110">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="1" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="0" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="29" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="26" x="131.334348" y="106.324478" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="1" x="131.334348" y="106.324478" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="19" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="25" x="175.878268" y="83.118377" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="17" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="23" x="237.725978" y="65.570285" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="137.555556" angle="0" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="4" name="may3_idle" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_001" folder="0" file="16" abs_x="-157.777778" abs_y="136.444444" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="13" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="9" abs_x="-85.666667" abs_y="138.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="2" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="10" abs_x="-63.238096" abs_y="186.258671" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1.149471" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="11" abs_x="-50.380953" abs_y="276.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="4" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="13" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="9" x="128.556631" y="106.310589" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="10" x="173.027066" y="84.104132" angle="270.265256" scale_x="0.925916" scale_y="1.149471"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="11" x="256.218373" y="71.662812" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_001">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="136.444444" angle="0" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="5" name="may3_i" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_001" folder="0" file="16" abs_x="-157.777778" abs_y="136.444444" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="28" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="20" abs_x="-85.666667" abs_y="138.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="19" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="24" abs_x="-63.238096" abs_y="186.258671" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1.149471" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="22" abs_x="-50.380953" abs_y="276.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="17" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="28" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="20" x="128.556631" y="106.310589" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="19" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="24" x="173.027066" y="84.104132" angle="270.265256" scale_x="0.925916" scale_y="1.149471"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="17" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="22" x="256.218373" y="71.662812" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_001">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="136.444444" angle="0" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="6" name="may4_idle" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_001" folder="0" file="16" abs_x="-157.777778" abs_y="136.444444" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="13" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="8" abs_x="-85.666668" abs_y="139.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="2" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="10" abs_x="-63.238096" abs_y="186.258671" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1.149471" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="14" abs_x="-50.380954" abs_y="277.047721" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="4" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="13" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="8" x="129.482537" y="106.315219" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="10" x="173.027066" y="84.104132" angle="270.265256" scale_x="0.925916" scale_y="1.149471"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="14" x="257.144279" y="71.667442" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_001">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="136.444444" angle="0" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="7" name="may4_i" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_001" folder="0" file="16" abs_x="-157.777778" abs_y="136.444444" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="28" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="18" abs_x="-85.666668" abs_y="139.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="19" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="24" abs_x="-63.238096" abs_y="186.258671" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1.149471" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="27" abs_x="-50.380954" abs_y="277.047721" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="17" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="28" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="18" x="129.482537" y="106.315219" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="19" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="24" x="173.027066" y="84.104132" angle="270.265256" scale_x="0.925916" scale_y="1.149471"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="17" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="27" x="257.144279" y="71.667442" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_001">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="136.444444" angle="0" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="8" name="may1_working" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" parent="0" name="ruahoaqua09_000" folder="0" file="16" abs_x="-161.555555" abs_y="137.555556" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="0" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="7" abs_x="-85.666667" abs_y="141.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="2" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="3" abs_x="-62.238096" abs_y="189.333407" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="5" abs_x="-44.380953" abs_y="256.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="4" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+                <key id="1" time="111">
+                    <bone_ref id="0" timeline="6" key="1"/>
+                    <object_ref id="0" parent="0" timeline="7" key="1" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="1" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="1" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="1" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="1" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="1" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="1" z_index="6"/>
+                </key>
+                <key id="2" time="243">
+                    <bone_ref id="0" timeline="6" key="2"/>
+                    <object_ref id="0" parent="0" timeline="7" key="2" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="2" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="2" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="2" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="2" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="2" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="2" z_index="6"/>
+                </key>
+                <key id="3" time="363">
+                    <bone_ref id="0" timeline="6" key="3"/>
+                    <object_ref id="0" parent="0" timeline="7" key="3" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="3" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="3" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="3" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="3" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="3" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="3" z_index="6"/>
+                </key>
+                <key id="4" time="487">
+                    <bone_ref id="0" timeline="6" key="4"/>
+                    <object_ref id="0" parent="0" timeline="7" key="4" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="4" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="4" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="4" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="4" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="4" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="4" z_index="6"/>
+                </key>
+                <key id="5" time="607">
+                    <bone_ref id="0" timeline="6" key="5"/>
+                    <object_ref id="0" parent="0" timeline="7" key="5" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="5" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="5" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="5" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="5" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="5" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="5" z_index="6"/>
+                </key>
+                <key id="6" time="731">
+                    <bone_ref id="0" timeline="6" key="6"/>
+                    <object_ref id="0" parent="0" timeline="7" key="6" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="6" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="6" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="6" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="6" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="6" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="6" z_index="6"/>
+                </key>
+                <key id="7" time="857">
+                    <bone_ref id="0" timeline="6" key="7"/>
+                    <object_ref id="0" parent="0" timeline="7" key="7" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="7" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="7" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="7" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="7" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="7" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="7" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="0" x="26.37723" y="92.228112" angle="270.265256" scale_x="0.925916" scale_y="0.990412"/>
+                </key>
+                <key id="2" time="243" spin="0">
+                    <object folder="0" file="0" x="25.601343" y="92.224233" angle="270.265256" scale_x="0.925916" scale_y="0.979011"/>
+                </key>
+                <key id="3" time="363" spin="0">
+                    <object folder="0" file="0" x="24.895991" y="92.220706" angle="270.265256" scale_x="0.925916" scale_y="0.968647"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="0" x="24.167127" y="92.217061" angle="270.265256" scale_x="0.925916" scale_y="0.957937"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="0" x="24.828123" y="92.220367" angle="270.265256" scale_x="0.925916" scale_y="0.96765"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="0" x="25.522636" y="92.22384" angle="270.265256" scale_x="0.925916" scale_y="0.977855"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="0" x="26.228537" y="92.227369" angle="270.265256" scale_x="0.925916" scale_y="0.988228"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="7" x="131.334348" y="106.324478" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="7" x="134.308422" y="106.339349" angle="270.265256" scale_x="0.925916" scale_y="1.020534"/>
+                </key>
+                <key id="2" time="243" spin="0">
+                    <object folder="0" file="7" x="137.845159" y="106.357033" angle="270.265256" scale_x="0.925916" scale_y="1.044954"/>
+                </key>
+                <key id="3" time="363" spin="0">
+                    <object folder="0" file="7" x="141.060374" y="106.373109" angle="270.265256" scale_x="0.925916" scale_y="1.067153"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="7" x="144.382763" y="106.389721" angle="270.265256" scale_x="0.925916" scale_y="1.090093"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="7" x="141.369734" y="106.374656" angle="270.265256" scale_x="0.925916" scale_y="1.06929"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="7" x="138.203926" y="106.358826" angle="270.265256" scale_x="0.925916" scale_y="1.047431"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="7" x="134.986212" y="106.342738" angle="270.265256" scale_x="0.925916" scale_y="1.025214"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="2" x="54.735806" y="104.985031" angle="270.265256" scale_x="0.932529" scale_y="1.009455"/>
+                </key>
+                <key id="2" time="243" spin="0">
+                    <object folder="0" file="2" x="55.334383" y="107.41823" angle="270.265256" scale_x="0.940393" scale_y="1.020698"/>
+                </key>
+                <key id="3" time="363" spin="0">
+                    <object folder="0" file="2" x="55.878544" y="109.630228" angle="270.265256" scale_x="0.947543" scale_y="1.030919"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="2" x="56.440843" y="111.91596" angle="270.265256" scale_x="0.954931" scale_y="1.041481"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="2" x="55.930902" y="109.843061" angle="270.265256" scale_x="0.948232" scale_y="1.031903"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="2" x="55.395103" y="107.665054" angle="270.265256" scale_x="0.941192" scale_y="1.021838"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="2" x="54.85052" y="105.451336" angle="270.265256" scale_x="0.934037" scale_y="1.011609"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="175.878268" y="83.118377" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="3" x="179.478256" y="84.781827" angle="270.265256" scale_x="0.937682" scale_y="1.018052"/>
+                </key>
+                <key id="2" time="243" spin="0">
+                    <object folder="0" file="3" x="183.759321" y="86.759984" angle="270.265256" scale_x="0.951674" scale_y="1.03952"/>
+                </key>
+                <key id="3" time="363" spin="0">
+                    <object folder="0" file="3" x="187.651198" y="88.558308" angle="270.265256" scale_x="0.964393" scale_y="1.059036"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="3" x="191.672806" y="90.416576" angle="270.265256" scale_x="0.977537" scale_y="1.079202"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="3" x="188.025666" y="88.731338" angle="270.265256" scale_x="0.965618" scale_y="1.060914"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="3" x="184.193594" y="86.960649" angle="270.265256" scale_x="0.953093" scale_y="1.041698"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="3" x="180.298692" y="85.160927" angle="270.265256" scale_x="0.940363" scale_y="1.022166"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="4" x="201.920644" y="96.62246" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="2" time="243" spin="0">
+                    <object folder="0" file="4" x="203.415227" y="98.523396" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="3" time="363" spin="0">
+                    <object folder="0" file="4" x="204.77394" y="100.251519" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="4" x="206.177942" y="102.037247" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="4" x="204.904672" y="100.417795" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="4" x="203.566839" y="98.716228" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="4" x="202.207071" y="96.986761" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="237.725978" y="65.570285" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="6" x="240.557179" y="66.038653" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.927232"/>
+                </key>
+                <key id="2" time="243" spin="0">
+                    <object folder="0" file="5" x="243.924013" y="66.595631" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.928797"/>
+                </key>
+                <key id="3" time="363" spin="0">
+                    <object folder="0" file="6" x="246.98477" y="67.101976" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.930219"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="5" x="250.147553" y="67.625198" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.931689"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="6" x="247.279269" y="67.150695" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.930356"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="5" x="244.265544" y="66.652132" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.928956"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="6" x="241.202409" y="66.145394" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.927531"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="2" time="243" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="3" time="363" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="7" time="857">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="127.511126" y="182.195063" angle="270.265256" scale_x="0.925916" a="0.77778"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="16" x="125.201047" y="182.183513" angle="270.265256" scale_x="0.925916" scale_y="0.989879" a="0.77778"/>
+                </key>
+                <key id="2" time="243" spin="0">
+                    <object folder="0" file="16" x="120.067539" y="182.157845" angle="270.265256" scale_x="0.925916" scale_y="0.967386" a="0.77778"/>
+                </key>
+                <key id="3" time="363" spin="0">
+                    <object folder="0" file="16" x="119.040838" y="182.152711" angle="270.265256" scale_x="0.925916" scale_y="0.962888" a="0.77778"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="16" x="119.040838" y="182.152711" angle="270.265256" scale_x="0.925916" scale_y="0.962888" a="0.77778"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="16" x="118.014136" y="182.147578" angle="270.265256" scale_x="0.925916" scale_y="0.95839" a="0.77778"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="16" x="120.072302" y="181.046746" angle="270.265256" scale_x="0.925916" scale_y="0.967386" a="0.77778"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="16" x="123.147644" y="182.173245" angle="270.265256" scale_x="0.925916" scale_y="0.980882" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="9" name="may2_working" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_000" folder="0" file="16" abs_x="-161.555556" abs_y="137.555556" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="0" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="1" abs_x="-85.666667" abs_y="141.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="2" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="3" abs_x="-62.238096" abs_y="189.333407" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="5" abs_x="-44.380953" abs_y="256.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="4" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+                <key id="1" time="110">
+                    <bone_ref id="0" timeline="6" key="1"/>
+                    <object_ref id="0" timeline="7" key="1" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="1" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="1" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="1" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="1" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="1" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="1" z_index="6"/>
+                </key>
+                <key id="2" time="242">
+                    <bone_ref id="0" timeline="6" key="2"/>
+                    <object_ref id="0" timeline="7" key="2" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="2" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="2" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="2" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="2" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="2" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="2" z_index="6"/>
+                </key>
+                <key id="3" time="364">
+                    <bone_ref id="0" timeline="6" key="3"/>
+                    <object_ref id="0" timeline="7" key="3" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="3" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="3" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="3" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="3" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="3" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="3" z_index="6"/>
+                </key>
+                <key id="4" time="487">
+                    <bone_ref id="0" timeline="6" key="4"/>
+                    <object_ref id="0" timeline="7" key="4" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="4" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="4" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="4" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="4" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="4" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="4" z_index="6"/>
+                </key>
+                <key id="5" time="608">
+                    <bone_ref id="0" timeline="6" key="5"/>
+                    <object_ref id="0" timeline="7" key="5" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="5" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="5" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="5" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="5" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="5" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="5" z_index="6"/>
+                </key>
+                <key id="6" time="731">
+                    <bone_ref id="0" timeline="6" key="6"/>
+                    <object_ref id="0" timeline="7" key="6" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="6" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="6" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="6" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="6" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="6" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="6" z_index="6"/>
+                </key>
+                <key id="7" time="857">
+                    <bone_ref id="0" timeline="6" key="7"/>
+                    <object_ref id="0" timeline="7" key="7" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="7" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="7" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="7" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="7" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="7" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="7" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="0" x="26.383108" y="92.228142" angle="270.265256" scale_x="0.925916" scale_y="0.990499"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="0" x="25.607221" y="92.224263" angle="270.265256" scale_x="0.925916" scale_y="0.979098"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="0" x="24.890113" y="92.220676" angle="270.265256" scale_x="0.925916" scale_y="0.96856"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="0" x="24.167127" y="92.217061" angle="270.265256" scale_x="0.925916" scale_y="0.957937"/>
+                </key>
+                <key id="5" time="608" spin="0">
+                    <object folder="0" file="0" x="24.833632" y="92.220394" angle="270.265256" scale_x="0.925916" scale_y="0.967731"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="0" x="25.522635" y="92.22384" angle="270.265256" scale_x="0.925916" scale_y="0.977855"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="0" x="26.228537" y="92.227369" angle="270.265256" scale_x="0.925916" scale_y="0.988228"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="131.334348" y="106.324478" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="1" x="134.281628" y="106.339215" angle="270.265256" scale_x="0.925916" scale_y="1.020349"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="1" x="137.818365" y="106.356899" angle="270.265256" scale_x="0.925916" scale_y="1.044769"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="1" x="141.087168" y="106.373243" angle="270.265256" scale_x="0.925916" scale_y="1.067338"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="1" x="144.382763" y="106.389721" angle="270.265256" scale_x="0.925916" scale_y="1.090093"/>
+                </key>
+                <key id="5" time="608" spin="0">
+                    <object folder="0" file="1" x="141.344626" y="106.374531" angle="270.265256" scale_x="0.925916" scale_y="1.069116"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="1" x="138.203933" y="106.358826" angle="270.265256" scale_x="0.925916" scale_y="1.047431"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="1" x="134.986212" y="106.342738" angle="270.265256" scale_x="0.925916" scale_y="1.025214"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="2" x="54.731272" y="104.966597" angle="270.265256" scale_x="0.93247" scale_y="1.00937"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="2" x="55.329849" y="107.399796" angle="270.265256" scale_x="0.940334" scale_y="1.020613"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="2" x="55.883078" y="109.648662" angle="270.265256" scale_x="0.947602" scale_y="1.031004"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="2" x="56.440843" y="111.91596" angle="270.265256" scale_x="0.954931" scale_y="1.041481"/>
+                </key>
+                <key id="5" time="608" spin="0">
+                    <object folder="0" file="2" x="55.926653" y="109.825787" angle="270.265256" scale_x="0.948176" scale_y="1.031823"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="2" x="55.395104" y="107.665059" angle="270.265256" scale_x="0.941192" scale_y="1.021838"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="2" x="54.85052" y="105.451336" angle="270.265256" scale_x="0.934037" scale_y="1.011609"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="175.878268" y="83.118377" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="3" x="179.445823" y="84.766841" angle="270.265256" scale_x="0.937576" scale_y="1.01789"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="3" x="183.726888" y="86.744998" angle="270.265256" scale_x="0.951568" scale_y="1.039358"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="3" x="187.683631" y="88.573294" angle="270.265256" scale_x="0.964499" scale_y="1.059198"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="3" x="191.672806" y="90.416576" angle="270.265256" scale_x="0.977537" scale_y="1.079202"/>
+                </key>
+                <key id="5" time="608" spin="0">
+                    <object folder="0" file="3" x="187.995273" y="88.717295" angle="270.265256" scale_x="0.965518" scale_y="1.060761"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="3" x="184.193602" y="86.960652" angle="270.265256" scale_x="0.953093" scale_y="1.041698"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="3" x="180.298692" y="85.160927" angle="270.265256" scale_x="0.940363" scale_y="1.022166"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="4" x="201.909322" y="96.608059" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="4" x="203.403905" y="98.508995" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="4" x="204.785262" y="100.26592" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="4" x="206.177942" y="102.037247" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="5" time="608" spin="0">
+                    <object folder="0" file="4" x="204.894062" y="100.404299" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="4" x="203.566842" y="98.716231" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="4" x="202.207071" y="96.986761" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="237.725978" y="65.570285" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="6" x="240.531672" y="66.034434" angle="270.265256" scale_x="0.92722"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="5" x="243.898506" y="66.591412" angle="270.265256" scale_x="0.928785"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="6" x="247.010277" y="67.106195" angle="270.265256" scale_x="0.930231"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="5" x="250.147553" y="67.625198" angle="270.265256" scale_x="0.931689"/>
+                </key>
+                <key id="5" time="608" spin="0">
+                    <object folder="0" file="6" x="247.255366" y="67.146741" angle="270.265256" scale_x="0.930345"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="5" x="244.265551" y="66.652133" angle="270.265256" scale_x="0.928956"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="6" x="241.202409" y="66.145394" angle="270.265256" scale_x="0.927531"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="5" time="608" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="7" time="857">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="137.555556" angle="0" a="0.77778"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="138.387202" angle="0" scale_y="1.003374" a="0.77778"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="133.951754" angle="0" scale_y="0.98538" a="0.77778"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="130.625169" angle="0" scale_y="0.971885" a="0.77778"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="128.407445" angle="0" scale_y="0.962888" a="0.77778"/>
+                </key>
+                <key id="5" time="608" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="129.516307" angle="0" scale_y="0.967386" a="0.77778"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="129.516307" angle="0" scale_y="0.967386" a="0.77778"/>
+                </key>
+                <key id="7" time="857" spin="0">
+                    <object folder="0" file="16" x="-161.555556" y="133.951754" angle="0" scale_y="0.98538" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="10" name="may3_working" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_001" folder="0" file="16" abs_x="-157.777778" abs_y="136.444444" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="13" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="9" abs_x="-85.666667" abs_y="138.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="2" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="10" abs_x="-63.238096" abs_y="186.258671" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1.149471" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="11" abs_x="-50.380953" abs_y="276.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="4" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+                <key id="1" time="110">
+                    <bone_ref id="0" timeline="6" key="1"/>
+                    <object_ref id="0" timeline="7" key="1" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="1" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="1" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="1" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="1" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="1" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="1" z_index="6"/>
+                </key>
+                <key id="2" time="242">
+                    <bone_ref id="0" timeline="6" key="2"/>
+                    <object_ref id="0" timeline="7" key="2" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="2" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="2" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="2" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="2" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="2" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="2" z_index="6"/>
+                </key>
+                <key id="3" time="364">
+                    <bone_ref id="0" timeline="6" key="3"/>
+                    <object_ref id="0" timeline="7" key="3" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="3" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="3" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="3" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="3" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="3" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="3" z_index="6"/>
+                </key>
+                <key id="4" time="487">
+                    <bone_ref id="0" timeline="6" key="4"/>
+                    <object_ref id="0" timeline="7" key="4" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="4" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="4" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="4" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="4" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="4" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="4" z_index="6"/>
+                </key>
+                <key id="5" time="607">
+                    <bone_ref id="0" timeline="6" key="5"/>
+                    <object_ref id="0" timeline="7" key="5" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="5" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="5" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="5" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="5" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="5" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="5" z_index="6"/>
+                </key>
+                <key id="6" time="732">
+                    <bone_ref id="0" timeline="6" key="6"/>
+                    <object_ref id="0" timeline="7" key="6" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="6" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="6" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="6" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="6" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="6" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="6" z_index="6"/>
+                </key>
+                <key id="7" time="856">
+                    <bone_ref id="0" timeline="6" key="7"/>
+                    <object_ref id="0" timeline="7" key="7" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="7" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="7" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="7" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="7" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="7" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="7" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="13" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="13" x="27.034104" y="91.199726" angle="270.265256" scale_x="0.918227"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="13" x="27.03941" y="89.961748" angle="270.265256" scale_x="0.908999"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="13" x="27.044315" y="88.817556" angle="270.265256" scale_x="0.900471"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="13" x="27.04926" y="87.663986" angle="270.265256" scale_x="0.891873"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="13" x="27.044738" y="88.718648" angle="270.265256" scale_x="0.899734"/>
+                </key>
+                <key id="6" time="732" spin="0">
+                    <object folder="0" file="13" x="27.03995" y="89.835725" angle="270.265256" scale_x="0.90806"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="13" x="27.035199" y="90.944159" angle="270.265256" scale_x="0.916322"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="9" x="128.556631" y="106.310589" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="9" x="129.833251" y="107.850214" angle="270.265256" scale_x="0.939019" scale_y="1.008274"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="9" x="131.365195" y="109.697763" angle="270.265256" scale_x="0.954742" scale_y="1.018203"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="9" x="132.781082" y="111.405346" angle="270.265256" scale_x="0.969275" scale_y="1.027379"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="9" x="134.208575" y="113.126926" angle="270.265256" scale_x="0.983926" scale_y="1.036631"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="9" x="132.903477" y="111.552956" angle="270.265256" scale_x="0.97053" scale_y="1.028172"/>
+                </key>
+                <key id="6" time="732" spin="0">
+                    <object folder="0" file="9" x="131.521143" y="109.885838" angle="270.265256" scale_x="0.956343" scale_y="1.019214"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="9" x="130.149504" y="108.231621" angle="270.265256" scale_x="0.942265" scale_y="1.010323"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="2" x="53.702203" y="104.059803" angle="270.265256" scale_x="0.93247" scale_y="0.993148"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="2" x="53.065897" y="105.404848" angle="270.265256" scale_x="0.940334" scale_y="0.984924"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="2" x="52.477796" y="106.647996" angle="270.265256" scale_x="0.947602" scale_y="0.977323"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="2" x="51.884874" y="107.901333" angle="270.265256" scale_x="0.95493" scale_y="0.96966"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="2" x="52.426958" y="106.755458" angle="270.265256" scale_x="0.948231" scale_y="0.976666"/>
+                </key>
+                <key id="6" time="732" spin="0">
+                    <object folder="0" file="2" x="53.001123" y="105.54177" angle="270.265256" scale_x="0.941135" scale_y="0.984087"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="2" x="53.570844" y="104.337473" angle="270.265256" scale_x="0.934094" scale_y="0.991449"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="10" x="173.027066" y="84.104132" angle="270.265256" scale_x="0.925916" scale_y="1.149471"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="10" x="171.40473" y="83.645195" angle="270.265256" scale_x="0.925916" scale_y="1.126513"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="10" x="169.457928" y="83.094471" angle="270.265256" scale_x="0.925916" scale_y="1.098962"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="10" x="167.658611" y="82.58547" angle="270.265256" scale_x="0.925916" scale_y="1.0735"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="10" x="165.844545" y="82.072295" angle="270.265256" scale_x="0.925916" scale_y="1.047828"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="10" x="167.503071" y="82.541469" angle="270.265256" scale_x="0.925916" scale_y="1.071299"/>
+                </key>
+                <key id="6" time="732" spin="0">
+                    <object folder="0" file="10" x="169.259749" y="83.038409" angle="270.265256" scale_x="0.925916" scale_y="1.096158"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="10" x="171.002834" y="83.531504" angle="270.265256" scale_x="0.925916" scale_y="1.120825"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="4" x="199.412552" y="94.792277" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="4" x="197.911012" y="94.514275" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="4" x="196.523225" y="94.257333" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="4" x="195.124062" y="93.998285" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="4" x="196.40326" y="94.235122" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="6" time="732" spin="0">
+                    <object folder="0" file="4" x="197.758159" y="94.485975" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="4" x="199.102575" y="94.734886" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="11" x="256.218373" y="71.662812" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="15" x="257.558264" y="73.040314" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.941668" scale_y="1.001895"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="11" x="259.166133" y="74.693316" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.96057" scale_y="1.004168"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="15" x="260.652194" y="76.221089" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.97804" scale_y="1.006268"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="11" x="262.150436" y="77.761387" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.995653" scale_y="1.008386"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="15" x="260.780655" y="76.353156" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.979549" scale_y="1.006449"/>
+                </key>
+                <key id="6" time="732" spin="0">
+                    <object folder="0" file="11" x="259.32981" y="74.861587" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.962493" scale_y="1.004398"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="15" x="257.890192" y="73.381558" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.94557" scale_y="1.002364"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="6" time="732" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="7" time="856">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_001">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="136.444444" angle="0" a="0.77778"/>
+                </key>
+                <key id="1" time="110" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="132.840643" angle="0" scale_y="0.98538" a="0.77778"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="129.514058" angle="0" scale_y="0.971885" a="0.77778"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="123.969748" angle="0" scale_y="0.949393" a="0.77778"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="118.425439" angle="0" scale_y="0.926901" a="0.77778"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="123.969748" angle="0" scale_y="0.949393" a="0.77778"/>
+                </key>
+                <key id="6" time="732" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="126.187472" angle="0" scale_y="0.95839" a="0.77778"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="130.622919" angle="0" scale_y="0.976383" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="11" name="may4_working" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="6" key="0"/>
+                    <object_ref id="0" name="ruahoaqua09_001" folder="0" file="16" abs_x="-157.777778" abs_y="136.444444" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="0.77778" timeline="7" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" name="ruahoaqua" folder="0" file="13" abs_x="-72.095238" abs_y="28.619059" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" name="ruahoaqua01" folder="0" file="8" abs_x="-85.666667" abs_y="138.333389" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2"/>
+                    <object_ref id="3" parent="0" name="ruahoaqua02" folder="0" file="2" abs_x="-82.666667" abs_y="58.047641" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="0" name="ruahoaqua03" folder="0" file="10" abs_x="-63.238096" abs_y="186.258671" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1.149471" abs_a="1" timeline="3" key="0" z_index="4"/>
+                    <object_ref id="5" parent="0" name="ruahoaqua05" folder="0" file="14" abs_x="-50.380953" abs_y="276.04772" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="0" name="ruahoaqua04" folder="0" file="4" abs_x="-74.019609" abs_y="216.156948" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="6"/>
+                </key>
+                <key id="1" time="111">
+                    <bone_ref id="0" timeline="6" key="1"/>
+                    <object_ref id="0" timeline="7" key="1" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="1" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="1" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="1" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="1" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="1" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="1" z_index="6"/>
+                </key>
+                <key id="2" time="242">
+                    <bone_ref id="0" timeline="6" key="2"/>
+                    <object_ref id="0" timeline="7" key="2" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="2" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="2" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="2" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="2" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="2" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="2" z_index="6"/>
+                </key>
+                <key id="3" time="364">
+                    <bone_ref id="0" timeline="6" key="3"/>
+                    <object_ref id="0" timeline="7" key="3" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="3" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="3" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="3" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="3" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="3" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="3" z_index="6"/>
+                </key>
+                <key id="4" time="487">
+                    <bone_ref id="0" timeline="6" key="4"/>
+                    <object_ref id="0" timeline="7" key="4" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="4" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="4" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="4" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="4" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="4" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="4" z_index="6"/>
+                </key>
+                <key id="5" time="607">
+                    <bone_ref id="0" timeline="6" key="5"/>
+                    <object_ref id="0" timeline="7" key="5" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="5" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="5" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="5" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="5" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="5" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="5" z_index="6"/>
+                </key>
+                <key id="6" time="731">
+                    <bone_ref id="0" timeline="6" key="6"/>
+                    <object_ref id="0" timeline="7" key="6" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="6" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="6" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="6" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="6" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="6" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="6" z_index="6"/>
+                </key>
+                <key id="7" time="856">
+                    <bone_ref id="0" timeline="6" key="7"/>
+                    <object_ref id="0" timeline="7" key="7" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="7" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="7" z_index="2"/>
+                    <object_ref id="3" parent="0" timeline="2" key="7" z_index="3"/>
+                    <object_ref id="4" parent="0" timeline="3" key="7" z_index="4"/>
+                    <object_ref id="5" parent="0" timeline="5" key="7" z_index="5"/>
+                    <object_ref id="6" parent="0" timeline="4" key="7" z_index="6"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="ruahoaqua">
+                <key id="0" spin="0">
+                    <object folder="0" file="13" x="27.029681" y="92.231375" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="13" x="27.034144" y="91.190348" angle="270.265256" scale_x="0.918157"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="13" x="27.03941" y="89.961748" angle="270.265256" scale_x="0.908999"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="13" x="27.044315" y="88.817556" angle="270.265256" scale_x="0.900471"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="13" x="27.04926" y="87.663986" angle="270.265256" scale_x="0.891873"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="13" x="27.044738" y="88.718648" angle="270.265256" scale_x="0.899734"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="13" x="27.039989" y="89.826789" angle="270.265256" scale_x="0.907994"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="13" x="27.035199" y="90.944159" angle="270.265256" scale_x="0.916322"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="ruahoaqua01">
+                <key id="0" spin="0">
+                    <object folder="0" file="8" x="128.556631" y="106.310589" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="8" x="129.844856" y="107.86421" angle="270.265256" scale_x="0.939138" scale_y="1.008349"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="8" x="131.365195" y="109.697763" angle="270.265256" scale_x="0.954742" scale_y="1.018203"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="8" x="132.781082" y="111.405346" angle="270.265256" scale_x="0.969275" scale_y="1.027379"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="8" x="134.208575" y="113.126926" angle="270.265256" scale_x="0.983926" scale_y="1.036631"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="8" x="132.903477" y="111.552956" angle="270.265256" scale_x="0.97053" scale_y="1.028172"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="8" x="131.532201" y="109.899175" angle="270.265256" scale_x="0.956456" scale_y="1.019285"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="8" x="130.149504" y="108.231621" angle="270.265256" scale_x="0.942265" scale_y="1.010323"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="ruahoaqua02">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="54.232458" y="102.938932" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="2" x="53.697382" y="104.069992" angle="270.265256" scale_x="0.932529" scale_y="0.993085"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="2" x="53.065897" y="105.404848" angle="270.265256" scale_x="0.940334" scale_y="0.984924"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="2" x="52.477796" y="106.647996" angle="270.265256" scale_x="0.947602" scale_y="0.977323"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="2" x="51.884874" y="107.901333" angle="270.265256" scale_x="0.95493" scale_y="0.96966"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="2" x="52.426958" y="106.755458" angle="270.265256" scale_x="0.948231" scale_y="0.976666"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="2" x="52.996529" y="105.55148" angle="270.265256" scale_x="0.941192" scale_y="0.984027"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="2" x="53.570844" y="104.337473" angle="270.265256" scale_x="0.934094" scale_y="0.991449"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="ruahoaqua03">
+                <key id="0" spin="0">
+                    <object folder="0" file="10" x="173.027066" y="84.104132" angle="270.265256" scale_x="0.925916" scale_y="1.149471"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="10" x="171.389982" y="83.641023" angle="270.265256" scale_x="0.925916" scale_y="1.126305"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="10" x="169.457928" y="83.094471" angle="270.265256" scale_x="0.925916" scale_y="1.098962"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="10" x="167.658611" y="82.58547" angle="270.265256" scale_x="0.925916" scale_y="1.0735"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="10" x="165.844545" y="82.072295" angle="270.265256" scale_x="0.925916" scale_y="1.047828"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="10" x="167.503071" y="82.541469" angle="270.265256" scale_x="0.925916" scale_y="1.071299"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="10" x="169.245695" y="83.034434" angle="270.265256" scale_x="0.925916" scale_y="1.095959"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="10" x="171.002834" y="83.531504" angle="270.265256" scale_x="0.925916" scale_y="1.120825"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="ruahoaqua04">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="200.663835" y="95.023946" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="4" x="199.401176" y="94.790171" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="4" x="197.911012" y="94.514275" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="4" x="196.523225" y="94.257333" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="4" x="195.124062" y="93.998285" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="4" x="196.40326" y="94.235122" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="4" x="197.74732" y="94.483968" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="4" x="199.102575" y="94.734886" angle="270.265256" scale_x="0.925916"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="ruahoaqua05">
+                <key id="0" spin="0">
+                    <object folder="0" file="14" x="256.218373" y="71.662812" angle="270.265256" scale_x="0.925916"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="12" x="257.570445" y="73.052836" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.941811" scale_y="1.001912"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="14" x="259.166133" y="74.693316" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.96057" scale_y="1.004168"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="12" x="260.652194" y="76.221089" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.97804" scale_y="1.006268"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="14" x="262.150436" y="77.761387" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.995653" scale_y="1.008386"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="12" x="260.780655" y="76.353156" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.979549" scale_y="1.006449"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="14" x="259.341417" y="74.873519" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.96263" scale_y="1.004415"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="12" x="257.890192" y="73.381558" pivot_x="0" pivot_y="1" angle="270.265256" scale_x="0.94557" scale_y="1.002364"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="bone_000" object_type="bone">
+                <key id="0">
+                    <bone x="20" y="-1" angle="449.734744" scale_x="1.080012"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+                <key id="7" time="856">
+                    <bone x="20" y="-1" angle="89.734744" scale_x="1.080012"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="ruahoaqua09_001">
+                <key id="0" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="136.444444" angle="0" a="0.77778"/>
+                </key>
+                <key id="1" time="111" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="130.622919" angle="0" scale_y="0.976383" a="0.77778"/>
+                </key>
+                <key id="2" time="242" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="127.296334" angle="0" scale_y="0.962888" a="0.77778"/>
+                </key>
+                <key id="3" time="364" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="121.752024" angle="0" scale_y="0.940396" a="0.77778"/>
+                </key>
+                <key id="4" time="487" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="120.643162" angle="0" scale_y="0.935897" a="0.77778"/>
+                </key>
+                <key id="5" time="607" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="122.860886" angle="0" scale_y="0.944894" a="0.77778"/>
+                </key>
+                <key id="6" time="731" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="125.07861" angle="0" scale_y="0.953891" a="0.77778"/>
+                </key>
+                <key id="7" time="856" spin="0">
+                    <object folder="0" file="16" x="-157.777778" y="128.405196" angle="0" scale_y="0.967386" a="0.77778"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

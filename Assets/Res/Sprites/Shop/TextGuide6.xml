@@ -1,0 +1,30 @@
+﻿<Data>
+  <guide id="1" textV="Bạn nhìn kìa! Những nhân viên của bạn đang mất tập trung. Sakura đang bị ốm, Peter đang ngủ gật còn Sarah thì đang nghe nhạc. Hãy giúp họ tập trung vào công việc nào! Chạm vào từng nhân viên để nhắc nhở họ."
+         textE="Look! Your staff is distracting. Sakura is sicking, Peter is falling asleep, Sarah is listening music. You need to help them stay focus. Tap into the staff to help them." />
+  <guide id="2" textV="xxx" textE="xxx">
+    <hand posi="30;0" size="30"/>
+  </guide>
+  <guide id="3" textV="xxx" textE="xxx">
+    <hand posi="-100;75" size="30"/>
+  </guide>
+  <guide id="4" textV="xxx" textE="xxx">
+    <hand posi="-235;100" size="30"/>
+  </guide>
+  <guide id="5" textV="Bạn làm rất tốt! Hãy luôn quan sát nhân viên để quản lý họ tốt hơn nhé! Còn bây giờ hãy tới nông trại để thu hoạch nào!"
+         textE="Good job! Take care your staffs. Now, let's go to the Farm."/>
+</Data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

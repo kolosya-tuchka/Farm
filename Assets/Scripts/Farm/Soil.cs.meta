@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0cfe4e97d79039846a7d9da9093711b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dirt: {fileID: 21300000, guid: 55d39c69349ebe5448ed42dd65419f04, type: 3}
+  - unwatered: {fileID: 21300000, guid: 1491db131db4c9f408acb893efdaf155, type: 3}
+  - watered: {fileID: 21300000, guid: 8377585c83cad414bba34dbf73256603, type: 3}
+  - planted: {fileID: 21300000, guid: 2f541f172fd840741931248cfc7e1f79, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

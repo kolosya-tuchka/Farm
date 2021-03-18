@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: b7beff1dafb42604b9bcae935a8fa111
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1334123112927294264
+    second: ElementFarm_0
+  - first:
+      213: 8907194665044434859
+    second: ElementFarm_1
+  - first:
+      213: -4269544583126790075
+    second: ElementFarm_2
+  - first:
+      213: 5556848356488298165
+    second: ElementFarm_3
+  - first:
+      213: -6396136328927533916
+    second: ElementFarm_4
+  - first:
+      213: -7495183180052295464
+    second: ElementFarm_5
+  - first:
+      213: 817747837470007892
+    second: ElementFarm_6
+  - first:
+      213: 4321198138469342267
+    second: ElementFarm_7
+  - first:
+      213: -6904456606450613910
+    second: ElementFarm_8
+  - first:
+      213: -526858822530271501
+    second: ElementFarm_9
+  - first:
+      213: 4392557357543398376
+    second: ElementFarm_10
+  - first:
+      213: 6924158685622068615
+    second: ElementFarm_11
+  - first:
+      213: -2182351415860870782
+    second: ElementFarm_12
+  - first:
+      213: -7475649172801825500
+    second: ElementFarm_13
+  - first:
+      213: -2403567921700144413
+    second: ElementFarm_14
+  - first:
+      213: -9171343562094444857
+    second: ElementFarm_15
+  - first:
+      213: 2999995058952689740
+    second: ElementFarm_16
+  - first:
+      213: -1351218250547040955
+    second: ElementFarm_17
+  - first:
+      213: 1689864932908651100
+    second: ElementFarm_18
+  - first:
+      213: -5817333404945233192
+    second: ElementFarm_19
+  - first:
+      213: -4124067574266325180
+    second: ElementFarm_20
+  - first:
+      213: 462640953690770122
+    second: ElementFarm_21
+  - first:
+      213: -8305962638500527144
+    second: ElementFarm_22
+  - first:
+      213: -6941542857273313283
+    second: ElementFarm_23
+  - first:
+      213: -3009337400907168441
+    second: ElementFarm_24
+  - first:
+      213: 4295326230293601767
+    second: ElementFarm_25
+  - first:
+      213: -7043217492626519998
+    second: ElementFarm_26
+  - first:
+      213: 73028849206572133
+    second: ElementFarm_27
+  - first:
+      213: 111056464527613655
+    second: ElementFarm_28
+  - first:
+      213: 5884034088316378082
+    second: ElementFarm_29
+  - first:
+      213: -6025070860329827990
+    second: ElementFarm_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElementFarm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc8457e81e3c7de0800000000000000
+      internalID: -1334123112927294264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 197
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf5a330b56bc9b70800000000000000
+      internalID: 8907194665044434859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 197
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540d80a92d78fb4c0800000000000000
+      internalID: -4269544583126790075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 239
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beb2378324ed1d40800000000000000
+      internalID: 5556848356488298165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 213
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ad43a5eb5c37a0800000000000000
+      internalID: -6396136328927533916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 233
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d01082eb92cbf790800000000000000
+      internalID: -7495183180052295464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 216
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4526e385359395b00800000000000000
+      internalID: 817747837470007892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 240
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c5b8fefcaf7fb30800000000000000
+      internalID: 4321198138469342267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 219
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61896d3c417e20a0800000000000000
+      internalID: -6904456606450613910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 213
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f67d4c31b830b8f0800000000000000
+      internalID: -526858822530271501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 228
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb17e7d4af75fc30800000000000000
+      internalID: 4392557357543398376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 197
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78560f883ad871060800000000000000
+      internalID: 6924158685622068615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 216
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281ca8a23fab6b1e0800000000000000
+      internalID: -2182351415860870782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 191
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42554bd5fa8214890800000000000000
+      internalID: -7475649172801825500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 153
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaf989b5bfc4aed0800000000000000
+      internalID: -2403567921700144413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 153
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7b444f97d8b080800000000000000
+      internalID: -9171343562094444857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 125
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c485dc88c9f12a920800000000000000
+      internalID: 2999995058952689740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 33
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d6e1209228f3de0800000000000000
+      internalID: -1351218250547040955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 33
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d864043b937710800000000000000
+      internalID: 1689864932908651100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 34
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac93af61ea44fa0800000000000000
+      internalID: -5817333404945233192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4471626346e54c6c0800000000000000
+      internalID: -4124067574266325180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 51
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca49470f71ab6600800000000000000
+      internalID: 462640953690770122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_22
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 59
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d38286bcfa4bbc80800000000000000
+      internalID: -8305962638500527144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_23
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 33
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7f2179c8faaaf90800000000000000
+      internalID: -6941542857273313283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_24
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 33
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74581a9f39fac36d0800000000000000
+      internalID: -3009337400907168441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed5117e2701c9b30800000000000000
+      internalID: 4295326230293601767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248cd2cc107714e90800000000000000
+      internalID: -7043217492626519998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_27
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643057f953730100800000000000000
+      internalID: 73028849206572133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dedd2e144d8a8100800000000000000
+      internalID: 111056464527613655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_29
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 20
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb136014d948a150800000000000000
+      internalID: 5884034088316378082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementFarm_30
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61cb7789f5a26ca0800000000000000
+      internalID: -6025070860329827990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+<Technogy>
+  <Farm ID="1" Name="Farm" Cost="15" DeltaCost="5" newProduct=""/>
+  <AnimalFrame ID="2" Name="AnimalFrame" Cost="25" DeltaCost="5" newProduct=""/>
+  <FishFrame ID="3" Name="FishFrame" Cost="25" DeltaCost="5" newProduct=""/>
+
+  <Machine1 ID="4" Name="Machine1" Cost="100" DeltaCost="10" newProduct="3;2;1"/>
+  <Machine2 ID="5" Name="Machine2" Cost="105" DeltaCost="10" newProduct="6;7;4"/>
+  <Machine3 ID="6" Name="Machine3" Cost="102" DeltaCost="10" newProduct="9;8;-1"/>
+  <Machine4 ID="7" Name="Machine4" Cost="105" DeltaCost="10" newProduct="11;13;14"/>
+</Technogy>

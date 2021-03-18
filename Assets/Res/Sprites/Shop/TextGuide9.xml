@@ -1,0 +1,35 @@
+﻿<Data>
+  <guide id="1" textV="Bạn có biết cách nào dùng để tăng doanh thu bán hàng không? Hôm nay tôi sẽ nói cho bạn một cách đơn giản nhất nhé!"
+         textE="Hi! Before start your work, I will show you one trick to improve your business. It's weather gifts." />
+  <guide id="2" textV="Còn gì tuyệt vời hơn khi khách hàng của bạn được tặng quà khuyến mại nào! Bạn có thể tặng quà cho khách hàng theo sự thay đổi của thời tiết."
+         textE="What could be more wonderful when your customers get weather gifts! You can give gifts to customers according to the change of weather."/>
+  <guide id="3" textV="Bạn hãy theo dõi sự thay đổi của thời tiết mỗi ngày ở đây. Ngày nắng bạn hãy tặng kem cho họ, ngày mưa thì bạn nên tặng ô, còn ngày có tuyết thì bạn hãy tặng găng tay cho họ nhé!"
+         textE="You can follow to the change of the weather every day in here. Sunny day, you should give them ice-creams. Rainy day, you should give them umbrellas, and snowy day, you should give them gloves.">
+    <circle posi="-605;330" size="50"/>
+  </guide>
+  <guide id="4" textV="Thật đơn giản phải không nào! Chạm vào hộp quà để chọn món quà phù hợp nhất."
+         textE="It's very simple! Tap into the gift box and select right gift!"/>
+  <guide id="5" textV="xxx" textE="xxx">
+    <hand posi="100;-120" size="35"/>
+  </guide>
+  <guide id="6" textV="xxx" textE="xxx">
+    <hand posi="-5;-28" size="25"/>
+  </guide>
+  <guide id="7" textV="Sau khi tặng quà cho khách hàng, bạn sẽ nhận thêm 50% tổng giá trị hóa đơn thanh toán của khách hàng đấy. Hãy luôn chú ý tới thời tiết để tặng quà phù hợp cho khách hàng nhé!"
+         textE="With each gift, you can add 50% to your customer's bill who got gift."/>
+</Data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

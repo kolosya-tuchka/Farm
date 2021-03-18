@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b10">
+    <folder id="0">
+        <file id="0" name="bo.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="banhnho.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="banhmi.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="cookie.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="cheese.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="5" name="dau.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="dia-burger.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="7" name="dia-canuong.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="8" name="dia-garan.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="9" name="dia-tomran.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="10" name="nho.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="11" name="cachua.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="12" name="banhdau.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="13" name="suabo.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="14" name="suadau.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="15" name="suanho.png" width="110" height="110" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="entity_000">
+        <animation id="0" name="banhmi" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="2" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="2" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="1" name="cookie" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="3" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="3" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="2" name="banhnho" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="1" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="1" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="3" name="banhdau" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="12" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="12" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="12" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="4" name="banhtom" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="9" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="9" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="9" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="5" name="canuong" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="7" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="7" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="7" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="6" name="duiga" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="8" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="8" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="8" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="7" name="hamburger" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="6" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="6" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="6" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="8" name="cachua" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="11" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="11" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="11" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="9" name="nho" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="10" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="10" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="10" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="10" name="dau" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="5" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="5" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="11" name="suatuoi" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="13" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="13" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="13" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="12" name="suadau" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="14" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="14" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="14" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="13" name="suanho" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="15" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="15" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="15" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="14" name="bo" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="0" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="0" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="15" name="phomai" length="300">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="99">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="199">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="banh mi">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="-52.571429" y="69.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="0" file="4" x="-44.571429" y="67.726496" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+                <key id="2" time="199" spin="0">
+                    <object folder="0" file="4" x="-49.155006" y="61.254355" pivot_x="0" pivot_y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

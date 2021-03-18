@@ -1,0 +1,21 @@
+﻿<Data>
+  <guide id="1" textV="Đây là cửa hàng, nơi bán những sản phẩm đã sản xuất. Nhưng nhìn kìa! Bạn chưa có nhân viên bán hàng. Hãy cùng tôi vào thành phố để thuê những nhân viên ưu tú nhé! Chạm vào để tới thành phố."
+         textE="This is your shop. It will show up products that you have produced. Oh no!You don't have staff. Let's go to the city and looking for good staff!" />
+  <guide id="2" textV="xxx" textE="xxx">
+    <hand posi="580;-300" size="40"/>
+  </guide>
+  <guide id="3" textV="Rất tốt! Nhân viên ưu tú này đã đứng vào quầy thu ngân và sẵn sàng cho công việc."
+         textE="Good job!You have staff to sale products in the shop."/>
+  <guide id="4" textV="Bạn nhìn kìa! Khách hàng đã tới và yêu cầu món ăn. Mỗi khách hàng sẽ có 5 sao để đánh giá thái độ phục vụ của nhân viên. Nhân viên phục vụ càng nhanh thì khách hàng đánh giá càng tốt."
+         textE="Look! Customes have came to the shop. Each customer have 5 star to rate staff's attitude. Serve faster will get a lot of stars.">
+    <circle posi="-175;75" size="40"/>
+  </guide>
+  <guide id="5" textV="Số sao giảm theo thời gian chờ đợi của khách hàng. Khách hàng đợi càng lâu thì số sao càng giảm, khi số sao trở về không thì họ sẽ bỏ đi."
+          textE=" If customers wait for a long time, the star will decrease. If number of star is zero, customers will leave your shop."/>
+  <guide id="6" textV="Đây là nơi thể hiện số lượng sao mà bạn nhận được từ khách hàng. Nếu thanh này đầy thì bạn sẽ được thưởng đấy!"
+         textE="This is star bar. It will show up your stars which get from your customers. If bar is full, you will get a reward!">
+    <circle posi="10;325" size="20"/>
+  </guide>
+  <guide id="7" textV="Có cảnh báo ở nút nông trại, chắc là lúa chín rồi đấy, bạn hãy nhanh tới nông trại để thu hoạch nào. Bạn phải luôn quan sát thật kĩ, nếu có cảnh báo ở đâu thì hãy quay về đó ngay nhé!"
+         textE="You have a warning in the Farm, I guess your wheat fields can be harvest. Come to your farm quickly. You must pay attention to warnings. Everywhere have warnings, you must come to that."/>
+</Data>

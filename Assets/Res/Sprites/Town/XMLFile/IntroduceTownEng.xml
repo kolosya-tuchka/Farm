@@ -1,0 +1,40 @@
+<Introduce Scren="Town" language="Eng">
+  <Level Level="2">
+    <Content  Text="This is City. It will help your business. Come to Staff Building to hire staff!"/>
+    <Content  Text=" Each staff will have different ability and different price. Choose staff you enjoyed!"/>
+  </Level>
+  <Level Level="7">
+    <Content  Text="In Lottery Building, you can get a special gift from lucky wheel."/>
+    <Content  Text="On Sunday, you will get once to spin for free, and if you don't like to wait, you can use diamond to spin lucky wheel anytime!"/>
+  </Level>
+  <Level Level="11">
+    <Content  Text="Sometime, you feel hard to produce because you don't know what is your customers favorite. Don't worry, Market Research Building will help you to answer that question!"/>
+    <Content  Text="In Market Research, you can ask specialist for help, hire the company to make a research, make a practical trip or do some tests."/>
+    <Content  Text="Today, I introduce to you specialist method."/>
+    <Content  Text="Each specialist will give you different result. Higher price will have more accurate result."/>
+    <Content  Text="If you have result of market research, you can view it anytime and anywhere."/>
+  </Level>
+  <Level Level="15">
+    <Content  Text="In previous times, I have guided you basic lessons. Now, I'm guiding you how to increase productivity. It's used Technology Building."/>
+    <Content  Text="Technology Building will help you upgrade machine, barn, field or pond. Let's try this!"/>
+    <Content  Text="You can wait in 2 days or use diamond to complete the upgrading immediately. Remember, you can just upgrading machines which you have bought in the factory."/>
+  </Level>
+  <Level Level="18">
+    <Content  Text="Previous, I have introduced Market Research Building, Techonology Building, Staff Building,... to you. In this time, I will introduce new building to you. It's Multimedia Building"/>
+    <Content  Text="Multimedia Building provide you with ads which will help you to attract customers. Each ads need diffirent time to attract customers. Make a right choice!"/>
+  </Level>
+  <Level Level="21">
+    <Content  Text="The name of building is Supermarket. If you can't produce enough products for sell, you can buy it in the SuperMarket."/>
+    <Content  Text="Supermarket have all of products that you need. Tap into the Supermarket and buy products"/>
+  </Level>
+  <Level Level="26">
+    <Content  Text="You know, the best way to make staff work effectively is train them."/>
+    <Content  Text="Trainning will help your staff become better!"/>
+    <Content  Text="Trainning need time to finish, and if you don't like to wait, you can use diamond to complete upgrading immediately"/>
+  </Level>
+  <Level Level="50">
+    <Content  Text=" Pratical Trip will bring you to a town, with 20 families. Your target is talk to them about their demand. Base on their demand, you can produce products for sale."/>
+    <Content  Text="You can talk to a family or more, and wait for their answer. If you have result, you can view it on Research Button."/>
+    <Content  Text="Well done! You learn so quickly. Let's start your business, now!"/>
+  </Level>
+</Introduce>
