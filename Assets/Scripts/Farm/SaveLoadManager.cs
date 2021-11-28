@@ -32,11 +32,17 @@ public class SaveLoadManager : MonoBehaviour
 
         Debug.Log(www.error);
         Debug.Log(www.text);
+
+        if (www.error == "Cannot connect to destination host")
+        {
+            user.StartCoroutine(user.ExitWithError("No internet connection!"));
+        }
     }
 
-    public void LoadPlayer()
+    public bool LoadPlayer()
     {
         StartCoroutine(LoadPlayerCor());
+        return true;
     }
 
     IEnumerator LoadPlayerCor()
@@ -47,9 +53,12 @@ public class SaveLoadManager : MonoBehaviour
         form.AddField("index", 1);
         WWW www = new WWW(user.url + "load_obj.php", form);
         yield return www;
-
-        if (www.text == "bruh") yield break;
         Debug.Log(www.text);
+
+        if (www.error == "Cannot connect to destination host")
+        {
+            user.StartCoroutine(user.ExitWithError("No internet connection!"));
+        }
 
         PlayerData data = JsonUtility.FromJson<PlayerData>(www.text);
         var player = FindObjectOfType<Player>();
@@ -70,9 +79,10 @@ public class SaveLoadManager : MonoBehaviour
         }
     }
 
-    public void LoadFarm()
+    public bool LoadFarm()
     {
         StartCoroutine(LoadFarmCor());
+        return true;
     }
 
     IEnumerator LoadFarmCor()
@@ -85,7 +95,10 @@ public class SaveLoadManager : MonoBehaviour
         yield return www;
         FarmData data = JsonUtility.FromJson<FarmData>(www.text);
 
-        if (www.text == "bruh") yield break;
+        if (www.error == "Cannot connect to destination host")
+        {
+            user.StartCoroutine(user.ExitWithError("No internet connection!"));
+        }
 
         foreach (var an in data.animals)
         {
@@ -136,9 +149,10 @@ public class SaveLoadManager : MonoBehaviour
         }
     }
 
-    public void LoadFactory()
+    public bool LoadFactory()
     {
         StartCoroutine(LoadFactoryCor());
+        return true;
     }
 
     IEnumerator LoadFactoryCor()
@@ -150,7 +164,10 @@ public class SaveLoadManager : MonoBehaviour
         WWW www = new WWW(user.url + "load_obj.php", form);
         yield return www;
 
-        if (www.text == "bruh") yield break;
+        if (www.error == "Cannot connect to destination host")
+        {
+            user.StartCoroutine(user.ExitWithError("No internet connection!"));
+        }
 
         FactoryData data = JsonUtility.FromJson<FactoryData>(www.text);
         var player = FindObjectOfType<Player>();

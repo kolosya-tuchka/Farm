@@ -13,14 +13,11 @@ public class UserManager : MonoBehaviour
     public string login, password;
     public string url;
 
+    public GameObject errorLog;
+
     void Start()
     {
         url = "http://kolosya.beget.tech/BD/";
-    }
-
-    void Update()
-    {
-
     }
 
     public void LogIn()
@@ -68,6 +65,12 @@ public class UserManager : MonoBehaviour
             DontDestroyOnLoad(gameObject);
             SceneManager.LoadScene(1);
         }
+
+        if (www.error == "Cannot resolve destination host")
+        {
+            regLogs.text = "No internet connection!";
+            yield break;
+        }
     }
 
     IEnumerator LogCor()
@@ -105,5 +108,25 @@ public class UserManager : MonoBehaviour
             DontDestroyOnLoad(gameObject);
             SceneManager.LoadScene(1);
         }
+
+        if (www.error == "Cannot resolve destination host")
+        {
+            loginLogs.text = "No internet connection!";
+            yield break;
+        }
+    }
+
+    public IEnumerator ExitWithError(string text)
+    {
+        SceneManager.LoadScene(0);
+        yield return new WaitUntil(()=>SceneManager.GetActiveScene().buildIndex == 0);
+        NewErrorWindow(text);
+        Destroy(gameObject);
+    }
+
+    void NewErrorWindow(string text)
+    {
+        GameObject error = Instantiate(errorLog);
+        errorLog.GetComponent<ErrorLog>().log.text = text;
     }
 }

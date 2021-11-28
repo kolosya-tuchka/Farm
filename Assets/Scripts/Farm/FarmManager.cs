@@ -15,10 +15,8 @@ public class FarmManager : MonoBehaviour
     IEnumerator SaveLoop()
     {
         yield return null;
-        saveLoad.LoadPlayer();
-        saveLoad.LoadFarm();
-
-        yield return new WaitForSeconds(2);
+        yield return saveLoad.LoadPlayer();
+        yield return saveLoad.LoadFarm();
 
         while (true)
         {
