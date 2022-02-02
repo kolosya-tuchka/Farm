@@ -64,7 +64,7 @@ public class SaveLoadManager : MonoBehaviour
         var player = FindObjectOfType<Player>();
         player.coins = data.coins;
 
-        var prefs = GetComponent<ItemPrefs>();
+        var prefs = GetComponent<ItemPrefs>().itemsContainer;
 
         foreach (var item in data.inv)
         {

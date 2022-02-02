@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class ItemPrefs : MonoBehaviour
 {
-    public List<Item> items;
+    public ItemsContainer itemsContainer;
 }
