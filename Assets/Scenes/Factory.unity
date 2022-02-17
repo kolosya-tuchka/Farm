@@ -1358,10 +1358,9 @@ MonoBehaviour:
     name: coockedChicken
     count: 1
     icon: {fileID: 21300000, guid: f9b9c549b98d3574b9e144bcd7722f92, type: 3}
-  crafts:
-  - {fileID: 991635278}
-  - {fileID: 1252892113}
-  curCraft: 0
+  craftsDB: {fileID: 11400000, guid: f2f588a548e78624fbb7487d31dbd7af, type: 2}
+  curCraft: 
+  itemPrefs: {fileID: 1580497610}
 --- !u!61 &295910053
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1445,15 +1444,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 295910051}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.34, y: -0.54, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.3165834, y: -1.0798132, z: 1.9633952}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_Children:
   - {fileID: 776837670}
   - {fileID: 1710245166}
   - {fileID: 848709767}
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 1035669593}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &296102317
 GameObject:
@@ -1651,10 +1650,9 @@ MonoBehaviour:
     name: bread
     count: 1
     icon: {fileID: 21300000, guid: e2fbc39b462abf94483207d98854a486, type: 3}
-  crafts:
-  - {fileID: 1508445687}
-  - {fileID: 1330694186}
-  curCraft: 0
+  craftsDB: {fileID: 11400000, guid: f2f588a548e78624fbb7487d31dbd7af, type: 2}
+  curCraft: 
+  itemPrefs: {fileID: 1580497610}
 --- !u!61 &352658280
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1738,15 +1736,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 352658278}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.69, y: 0.7, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.6665835, y: 0.16018671, z: 1.9633952}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_Children:
   - {fileID: 123216729}
   - {fileID: 394541689}
   - {fileID: 1251526898}
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 1035669593}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &374462239
 GameObject:
@@ -2163,16 +2161,7 @@ MonoBehaviour:
   machine: {fileID: 454813267}
   disabled: {fileID: 21300000, guid: c2d557b378aef534a8f0b7ac35c94db9, type: 3}
   enabled: {fileID: 21300000, guid: 65704630f46b6c54cb4eb5cf9ca21d2b, type: 3}
-  craft:
-    makeTime: 20
-    material:
-    - name: chicken
-      count: 1
-      icon: {fileID: 0}
-  outputItem:
-    name: coockedChicken
-    count: 1
-    icon: {fileID: 21300000, guid: 187a32997c7998d4abde7298fbfb93a7, type: 3}
+  craftName: coockedChicken
 --- !u!1 &453741312
 GameObject:
   m_ObjectHideFlags: 0
@@ -2428,10 +2417,9 @@ MonoBehaviour:
     name: coockedChicken
     count: 1
     icon: {fileID: 21300000, guid: f9b9c549b98d3574b9e144bcd7722f92, type: 3}
-  crafts:
-  - {fileID: 453250819}
-  - {fileID: 2111669058}
-  curCraft: 0
+  craftsDB: {fileID: 11400000, guid: f2f588a548e78624fbb7487d31dbd7af, type: 2}
+  curCraft: 
+  itemPrefs: {fileID: 1580497610}
 --- !u!61 &454813268
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2515,15 +2503,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 454813266}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.91, y: 0.93, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.9334166, y: 0.39018673, z: 1.9633952}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_Children:
   - {fileID: 1633596232}
   - {fileID: 626341368}
   - {fileID: 770035669}
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_Father: {fileID: 1035669593}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &461413620
 GameObject:
@@ -2559,16 +2547,7 @@ MonoBehaviour:
   machine: {fileID: 962359667}
   disabled: {fileID: 21300000, guid: 8573212816bd7074486483496a1993c3, type: 3}
   enabled: {fileID: 21300000, guid: 9da007a1f5287c24d8f77ade7d2051b9, type: 3}
-  craft:
-    makeTime: 30
-    material:
-    - name: strawberry
-      count: 3
-      icon: {fileID: 0}
-  outputItem:
-    name: strawberryYogurt
-    count: 1
-    icon: {fileID: 21300000, guid: 9da007a1f5287c24d8f77ade7d2051b9, type: 3}
+  craftName: strawberryYogurt
 --- !u!61 &461413622
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3043,15 +3022,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 652688084}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.14, y: 1.82, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.1165833, y: 1.2801868, z: 1.9633952}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_Children:
   - {fileID: 59810460}
   - {fileID: 617393}
   - {fileID: 850332977}
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_Father: {fileID: 1035669593}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &652688087
 MonoBehaviour:
@@ -3075,10 +3054,9 @@ MonoBehaviour:
     name: bread
     count: 1
     icon: {fileID: 21300000, guid: e2fbc39b462abf94483207d98854a486, type: 3}
-  crafts:
-  - {fileID: 680338877}
-  - {fileID: 1142399564}
-  curCraft: 0
+  craftsDB: {fileID: 11400000, guid: f2f588a548e78624fbb7487d31dbd7af, type: 2}
+  curCraft: 
+  itemPrefs: {fileID: 1580497610}
 --- !u!61 &652688088
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3229,16 +3207,7 @@ MonoBehaviour:
   machine: {fileID: 652688087}
   disabled: {fileID: 21300000, guid: d9757ce279b927a4fa881cd98fbe6365, type: 3}
   enabled: {fileID: 21300000, guid: e2fbc39b462abf94483207d98854a486, type: 3}
-  craft:
-    makeTime: 15
-    material:
-    - name: wheat
-      count: 3
-      icon: {fileID: 0}
-  outputItem:
-    name: bread
-    count: 1
-    icon: {fileID: 21300000, guid: e2fbc39b462abf94483207d98854a486, type: 3}
+  craftName: bread
 --- !u!1 &700218296
 GameObject:
   m_ObjectHideFlags: 0
@@ -4064,9 +4033,9 @@ MonoBehaviour:
     name: berryYogurt
     count: 1
     icon: {fileID: 21300000, guid: 9da007a1f5287c24d8f77ade7d2051b9, type: 3}
-  crafts:
-  - {fileID: 461413621}
-  curCraft: 0
+  craftsDB: {fileID: 11400000, guid: f2f588a548e78624fbb7487d31dbd7af, type: 2}
+  curCraft: 
+  itemPrefs: {fileID: 1580497610}
 --- !u!61 &962359668
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4150,15 +4119,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 962359666}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.75, y: -1.84, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.22658336, y: -2.3798132, z: 1.9633952}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_Children:
   - {fileID: 1344917863}
   - {fileID: 380792878}
   - {fileID: 2084312397}
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 1035669593}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &991635277
 GameObject:
@@ -4194,16 +4163,7 @@ MonoBehaviour:
   machine: {fileID: 295910052}
   disabled: {fileID: 21300000, guid: c2d557b378aef534a8f0b7ac35c94db9, type: 3}
   enabled: {fileID: 21300000, guid: 65704630f46b6c54cb4eb5cf9ca21d2b, type: 3}
-  craft:
-    makeTime: 20
-    material:
-    - name: chicken
-      count: 1
-      icon: {fileID: 0}
-  outputItem:
-    name: coockedChicken
-    count: 1
-    icon: {fileID: 21300000, guid: 187a32997c7998d4abde7298fbfb93a7, type: 3}
+  craftName: coockedChicken
 --- !u!61 &991635279
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4368,6 +4328,42 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1014765125}
   m_CullTransparentMesh: 0
+--- !u!1 &1035669592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1035669593}
+  m_Layer: 0
+  m_Name: Machines
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1035669593
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1035669592}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.97658336, y: 0.5398133, z: -1.9633952}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 652688086}
+  - {fileID: 295910055}
+  - {fileID: 962359670}
+  - {fileID: 352658282}
+  - {fileID: 454813270}
+  - {fileID: 1707145232}
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1089168786
 GameObject:
   m_ObjectHideFlags: 0
@@ -4571,19 +4567,7 @@ MonoBehaviour:
   machine: {fileID: 652688087}
   disabled: {fileID: 21300000, guid: 61a2e556d41eafd49a2abeba183fd255, type: 3}
   enabled: {fileID: 21300000, guid: 9268d2ef5769a3c4fb1689d116931799, type: 3}
-  craft:
-    makeTime: 45
-    material:
-    - name: bread
-      count: 1
-      icon: {fileID: 0}
-    - name: strawberry
-      count: 1
-      icon: {fileID: 0}
-  outputItem:
-    name: strawberryCake
-    count: 1
-    icon: {fileID: 21300000, guid: 9268d2ef5769a3c4fb1689d116931799, type: 3}
+  craftName: strawberryCake
 --- !u!61 &1142399565
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5343,22 +5327,7 @@ MonoBehaviour:
   machine: {fileID: 295910052}
   disabled: {fileID: 21300000, guid: cdaad66a1e1a8b748aa7b36565fccea9, type: 3}
   enabled: {fileID: 21300000, guid: 89f33ef985842674599193e858e61e2b, type: 3}
-  craft:
-    makeTime: 60
-    material:
-    - name: pig
-      count: 1
-      icon: {fileID: 0}
-    - name: bread
-      count: 2
-      icon: {fileID: 0}
-    - name: tomato
-      count: 1
-      icon: {fileID: 0}
-  outputItem:
-    name: burger
-    count: 1
-    icon: {fileID: 21300000, guid: e43692252ef800449b0001b888c5cb21, type: 3}
+  craftName: burger
 --- !u!61 &1252892114
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5554,19 +5523,7 @@ MonoBehaviour:
   machine: {fileID: 352658279}
   disabled: {fileID: 21300000, guid: 61a2e556d41eafd49a2abeba183fd255, type: 3}
   enabled: {fileID: 21300000, guid: 9268d2ef5769a3c4fb1689d116931799, type: 3}
-  craft:
-    makeTime: 45
-    material:
-    - name: bread
-      count: 1
-      icon: {fileID: 0}
-    - name: strawberry
-      count: 1
-      icon: {fileID: 0}
-  outputItem:
-    name: strawberryCake
-    count: 1
-    icon: {fileID: 21300000, guid: 9268d2ef5769a3c4fb1689d116931799, type: 3}
+  craftName: strawberryCake
 --- !u!61 &1330694187
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5863,16 +5820,7 @@ MonoBehaviour:
   machine: {fileID: 352658279}
   disabled: {fileID: 21300000, guid: d9757ce279b927a4fa881cd98fbe6365, type: 3}
   enabled: {fileID: 21300000, guid: e2fbc39b462abf94483207d98854a486, type: 3}
-  craft:
-    makeTime: 15
-    material:
-    - name: wheat
-      count: 3
-      icon: {fileID: 0}
-  outputItem:
-    name: bread
-    count: 1
-    icon: {fileID: 21300000, guid: e2fbc39b462abf94483207d98854a486, type: 3}
+  craftName: bread
 --- !u!1 &1573566957
 GameObject:
   m_ObjectHideFlags: 0
@@ -6099,37 +6047,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a37d523acb5aa6f4bb4d7027604e5770, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  items:
-  - name: wheat
-    count: 0
-    icon: {fileID: 21300000, guid: 4583c6c7c4870e945b8ecce0491c043e, type: 3}
-  - name: tomato
-    count: 0
-    icon: {fileID: 21300000, guid: 4e86cd765c065f6468cdb86c4b6db386, type: 3}
-  - name: strawberry
-    count: 0
-    icon: {fileID: 21300000, guid: 2eeb6a57be49c6f4aa99cff0d919b2d9, type: 3}
-  - name: chicken
-    count: 0
-    icon: {fileID: 21300000, guid: 4dce4cedcd670e84d9bd1ddce1d4e536, type: 3}
-  - name: pig
-    count: 0
-    icon: {fileID: 21300000, guid: b9cbdf2efb1d288418818e0408f7c082, type: 3}
-  - name: bread
-    count: 0
-    icon: {fileID: 21300000, guid: e2fbc39b462abf94483207d98854a486, type: 3}
-  - name: strawberryCake
-    count: 0
-    icon: {fileID: 21300000, guid: 9268d2ef5769a3c4fb1689d116931799, type: 3}
-  - name: coockedChicken
-    count: 0
-    icon: {fileID: 21300000, guid: 65704630f46b6c54cb4eb5cf9ca21d2b, type: 3}
-  - name: burger
-    count: 0
-    icon: {fileID: 21300000, guid: 89f33ef985842674599193e858e61e2b, type: 3}
-  - name: strawberryYogurt
-    count: 0
-    icon: {fileID: 21300000, guid: 9da007a1f5287c24d8f77ade7d2051b9, type: 3}
+  itemsDB: {fileID: 11400000, guid: 017a31d9e56255c4e8050a8264b252ed, type: 2}
 --- !u!114 &1580497611
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6428,16 +6346,7 @@ MonoBehaviour:
   machine: {fileID: 1707145229}
   disabled: {fileID: 21300000, guid: 8573212816bd7074486483496a1993c3, type: 3}
   enabled: {fileID: 21300000, guid: 9da007a1f5287c24d8f77ade7d2051b9, type: 3}
-  craft:
-    makeTime: 30
-    material:
-    - name: strawberry
-      count: 3
-      icon: {fileID: 0}
-  outputItem:
-    name: strawberryYogurt
-    count: 1
-    icon: {fileID: 21300000, guid: 9da007a1f5287c24d8f77ade7d2051b9, type: 3}
+  craftName: strawberryYogurt
 --- !u!61 &1666034799
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6569,9 +6478,9 @@ MonoBehaviour:
     name: berryYogurt
     count: 1
     icon: {fileID: 21300000, guid: 9da007a1f5287c24d8f77ade7d2051b9, type: 3}
-  crafts:
-  - {fileID: 1666034798}
-  curCraft: 0
+  craftsDB: {fileID: 11400000, guid: f2f588a548e78624fbb7487d31dbd7af, type: 2}
+  curCraft: 
+  itemPrefs: {fileID: 1580497610}
 --- !u!61 &1707145230
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6655,15 +6564,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1707145228}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.05, y: 0.09, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.0734167, y: -0.44981328, z: 1.9633952}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_Children:
   - {fileID: 1573566958}
   - {fileID: 1642652476}
   - {fileID: 913340051}
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_Father: {fileID: 1035669593}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1710245164
 GameObject:
@@ -7594,22 +7503,7 @@ MonoBehaviour:
   machine: {fileID: 454813267}
   disabled: {fileID: 21300000, guid: cdaad66a1e1a8b748aa7b36565fccea9, type: 3}
   enabled: {fileID: 21300000, guid: 89f33ef985842674599193e858e61e2b, type: 3}
-  craft:
-    makeTime: 60
-    material:
-    - name: pig
-      count: 1
-      icon: {fileID: 0}
-    - name: bread
-      count: 2
-      icon: {fileID: 0}
-    - name: tomato
-      count: 1
-      icon: {fileID: 0}
-  outputItem:
-    name: burger
-    count: 1
-    icon: {fileID: 21300000, guid: e43692252ef800449b0001b888c5cb21, type: 3}
+  craftName: burger
 --- !u!61 &2111669059
 BoxCollider2D:
   m_ObjectHideFlags: 0

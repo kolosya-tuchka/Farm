@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 155ffeaefc479444a9f4fac5472092cd, type: 3}
+  m_Name: Crafts
+  m_EditorClassIdentifier: 
+  crafts:
+  - name: bread
+    count: 1
+    makeTime: 15
+    material:
+    - name: wheat
+      count: 3
+      icon: {fileID: 0}
+  - name: strawberryCake
+    count: 1
+    makeTime: 45
+    material:
+    - name: bread
+      count: 1
+      icon: {fileID: 0}
+    - name: strawberry
+      count: 1
+      icon: {fileID: 0}
+  - name: burger
+    count: 1
+    makeTime: 60
+    material:
+    - name: bread
+      count: 2
+      icon: {fileID: 0}
+    - name: pig
+      count: 1
+      icon: {fileID: 0}
+    - name: tomato
+      count: 1
+      icon: {fileID: 0}
+  - name: coockedChicken
+    count: 1
+    makeTime: 20
+    material:
+    - name: chicken
+      count: 1
+      icon: {fileID: 0}
+  - name: strawberryYogurt
+    count: 1
+    makeTime: 30
+    material:
+    - name: strawberry
+      count: 3
+      icon: {fileID: 0}

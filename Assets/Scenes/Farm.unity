@@ -6110,37 +6110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a37d523acb5aa6f4bb4d7027604e5770, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  items:
-  - name: wheat
-    count: 0
-    icon: {fileID: 21300000, guid: 4583c6c7c4870e945b8ecce0491c043e, type: 3}
-  - name: tomato
-    count: 0
-    icon: {fileID: 21300000, guid: 4e86cd765c065f6468cdb86c4b6db386, type: 3}
-  - name: strawberry
-    count: 0
-    icon: {fileID: 21300000, guid: 2eeb6a57be49c6f4aa99cff0d919b2d9, type: 3}
-  - name: chicken
-    count: 0
-    icon: {fileID: 21300000, guid: 4dce4cedcd670e84d9bd1ddce1d4e536, type: 3}
-  - name: pig
-    count: 0
-    icon: {fileID: 21300000, guid: b9cbdf2efb1d288418818e0408f7c082, type: 3}
-  - name: bread
-    count: 0
-    icon: {fileID: 21300000, guid: e2fbc39b462abf94483207d98854a486, type: 3}
-  - name: strawberryCake
-    count: 0
-    icon: {fileID: 21300000, guid: 9268d2ef5769a3c4fb1689d116931799, type: 3}
-  - name: coockedChicken
-    count: 0
-    icon: {fileID: 21300000, guid: 65704630f46b6c54cb4eb5cf9ca21d2b, type: 3}
-  - name: burger
-    count: 0
-    icon: {fileID: 21300000, guid: 89f33ef985842674599193e858e61e2b, type: 3}
-  - name: strawberryYogurt
-    count: 0
-    icon: {fileID: 21300000, guid: 9da007a1f5287c24d8f77ade7d2051b9, type: 3}
+  itemsDB: {fileID: 11400000, guid: 017a31d9e56255c4e8050a8264b252ed, type: 2}
 --- !u!1 &1987711582
 GameObject:
   m_ObjectHideFlags: 0

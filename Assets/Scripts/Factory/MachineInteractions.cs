@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -10,9 +11,10 @@ public class MachineInteractions : MonoBehaviour
     public Image progress;
     public int makeTime, startMakingTime;
     public Item outputItem;
-    public List<InputItem> crafts;
-    public int curCraft;
-
+    public CraftsDB craftsDB;
+    public string curCraft;
+    public ItemPrefs itemPrefs;
+    
     Player player;
 
     public enum State
@@ -97,10 +99,11 @@ public class MachineInteractions : MonoBehaviour
                     curCraft = data.curCraft;
                     startMakingTime = data.startTime;
                     popup.SetActive(false);
-                    output.GetComponent<SpriteRenderer>().sprite = crafts[curCraft].GetComponent<SpriteRenderer>().sprite;
+                    output.GetComponent<SpriteRenderer>().sprite = itemPrefs.itemsDB.items.FirstOrDefault(it => it.name == curCraft).icon;
                     output.SetActive(false);
                     progress.transform.parent.gameObject.SetActive(true);
-                    outputItem = crafts[curCraft].outputItem;
+                    outputItem = new Item(craftsDB.crafts.FirstOrDefault(c => c.name == curCraft));
+                    outputItem.icon = itemPrefs.itemsDB.items.FirstOrDefault(it => it.name == outputItem.name).icon;
                     break;
                 }
             case MachineInteractions.State.waiting:

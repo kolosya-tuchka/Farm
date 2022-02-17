@@ -69,11 +69,11 @@ public class SaveLoadManager : MonoBehaviour
         foreach (var item in data.inv)
         {
             int i = 0;
-            while (item.name != prefs.items[i].name)
+            while (item.name != prefs.itemsDB.items[i].name)
             {
                 i++;
             }
-            Item it = new Item(item.name, prefs.items[i].icon, item.count);
+            Item it = new Item(item.name, prefs.itemsDB.items[i].icon, item.count);
             player.AddItem(it);
             player.inventoryUI.UpdateInvUI(new Item(it));
         }

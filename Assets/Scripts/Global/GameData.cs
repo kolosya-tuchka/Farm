@@ -123,9 +123,9 @@ public class MachineData
 {
     public int state;
     public int startTime;
-    public int curCraft;
+    public string curCraft;
 
-    public MachineData(int state, int startTime, int curCraft)
+    public MachineData(int state, int startTime, string curCraft)
     {
         this.state = state;
         this.startTime = startTime;

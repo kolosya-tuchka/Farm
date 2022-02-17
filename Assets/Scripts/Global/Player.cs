@@ -65,6 +65,12 @@ public class Item
         this.icon = trade.icon;
         this.name = trade.name;
     }
+
+    public Item(CraftItem craft)
+    {
+        this.count = craft.count;
+        this.name = craft.name;
+    }
 }
 
 [System.Serializable]
@@ -92,6 +98,8 @@ public class TradeItem : Item
 [System.Serializable]
 public class CraftItem
 {
+    public string name;
+    public int count = 1;
     public int makeTime;
     public List<Item> material;
 }

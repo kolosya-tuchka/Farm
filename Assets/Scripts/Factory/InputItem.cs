@@ -1,19 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class InputItem : MonoBehaviour
 {
     public MachineInteractions machine;
     public Sprite disabled, enabled;
-    public CraftItem craft;
-    public Item outputItem;
+    public string craftName;
 
     Player player;
+    private CraftItem _craft;
 
     void Start()
     {
         player = FindObjectOfType<Player>();
+        _craft = machine.craftsDB.crafts.FirstOrDefault(craft => craft.name == craftName);
     }
 
     void Update()
@@ -26,7 +28,7 @@ public class InputItem : MonoBehaviour
         if (CanPut())
         {
             int i = 0;
-            foreach (var mat in craft.material)
+            foreach (var mat in _craft.material)
             {
                 i = 0;
                 while (player.items[i].name != mat.name)
@@ -36,15 +38,16 @@ public class InputItem : MonoBehaviour
                 player.items[i].count -= mat.count;
             }
 
-            machine.curCraft = 0;
-            while (machine.crafts[machine.curCraft] != this) machine.curCraft++;
+            machine.curCraft = craftName;
 
             machine.popup.SetActive(false);
             machine.output.GetComponent<SpriteRenderer>().sprite = GetComponent<SpriteRenderer>().sprite;
             machine.progress.transform.parent.gameObject.SetActive(true);
             machine.startMakingTime = TimeManager.GetUnixTime();
-            machine.makeTime = craft.makeTime;
+            machine.makeTime = _craft.makeTime;
             machine.state = MachineInteractions.State.working;
+            Item outputItem = new Item(_craft);
+            outputItem.icon = machine.itemPrefs.itemsDB.items.FirstOrDefault(it => it.name == outputItem.name).icon;
             machine.outputItem = outputItem;
             machine.progress.transform.parent.gameObject.SetActive(true);
 
@@ -55,7 +58,7 @@ public class InputItem : MonoBehaviour
     {
         int i = 0;
         if (player.items.Count == 0) return false;
-        foreach (var mat in craft.material)
+        foreach (var mat in _craft.material)
         {
             i = 0;
             while (player.items[i].name != mat.name)
