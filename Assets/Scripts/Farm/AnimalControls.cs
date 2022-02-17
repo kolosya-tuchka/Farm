@@ -6,7 +6,7 @@ public class AnimalControls : MonoBehaviour
 {
     Rigidbody2D rig;
     public float timeToGrow;
-    public Chuong home;
+    public Paddock home;
     public GameObject simpleModel, growedModel;
     public State state;
     public Item item;

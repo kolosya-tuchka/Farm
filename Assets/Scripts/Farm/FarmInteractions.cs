@@ -9,7 +9,7 @@ public class FarmInteractions : MonoBehaviour
 
     Vector3 mousePos;
     Soil curSoil;
-    Chuong curChuong;
+    Paddock _curPaddock;
     bool canInteract;
 
     public AudioClip shovelSound, waterSound, plantSound, chickSound, pigSound;
@@ -38,7 +38,7 @@ public class FarmInteractions : MonoBehaviour
                 if (obj != null)
                 {
                     curSoil = obj;
-                    curChuong = null;
+                    _curPaddock = null;
                     if (curSoil.plant != null)
                     {
                         if (curSoil.plant.state == global::Plant.State.growed)
@@ -50,11 +50,11 @@ public class FarmInteractions : MonoBehaviour
                 }
                 else
                 {
-                    var obj2 = hit.collider.gameObject.GetComponent<Chuong>();
+                    var obj2 = hit.collider.gameObject.GetComponent<Paddock>();
                     if (obj2 != null)
                     {
                         curSoil = null;
-                        curChuong = obj2;
+                        _curPaddock = obj2;
                         SelectField();
                     }
                 }
@@ -78,12 +78,12 @@ public class FarmInteractions : MonoBehaviour
                 case Soil.soilType.watered: SetField(plantsPopup); return;
             }
         }
-        else if (curChuong != null)
+        else if (_curPaddock != null)
         {
-            switch (curChuong.animal)
+            switch (_curPaddock.animal)
             {
-                case Chuong.animalType.chiken: SetField(chikenPopup); return;
-                case Chuong.animalType.pig: SetField(pigPopup); return;
+                case Paddock.AnimalType.chicken: SetField(chikenPopup); return;
+                case Paddock.AnimalType.pig: SetField(pigPopup); return;
             }
         }
     }
@@ -135,13 +135,13 @@ public class FarmInteractions : MonoBehaviour
 
     public void SpawnAnimal(SpawnManager animal)
     {
-        if (player.CanBuyWithCoins(animal.cost) && curChuong.CanSpawn())
+        if (player.CanBuyWithCoins(animal.cost) && _curPaddock.CanSpawn())
         {
-            var an = Instantiate(animal.toSpawn.gameObject, curChuong.transform.position, Quaternion.identity, curChuong.transform);
+            var an = Instantiate(animal.toSpawn.gameObject, _curPaddock.transform.position, Quaternion.identity, _curPaddock.transform);
             var cont = an.GetComponent<AnimalControls>();
-            cont.home = curChuong;
+            cont.home = _curPaddock;
             cont.startTime = TimeManager.GetUnixTime();
-            curChuong.animalCount++;
+            _curPaddock.animalCount++;
             player.coins -= animal.cost;
 
             switch (cont.item.name)

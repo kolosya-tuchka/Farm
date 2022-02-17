@@ -4,17 +4,17 @@ using UnityEngine;
 
 public class FarmPrefabs : MonoBehaviour
 {
-    public List<Chuong> chuongs;
+    public List<Paddock> chuongs;
     public List<Soil> soils;
     public List<AnimalControls> animals;
     public List<Plant> plants;
 
     private void Start()
     {
-        chuongs = new List<Chuong>();
+        chuongs = new List<Paddock>();
         soils = new List<Soil>();
 
-        var ch = FindObjectsOfType<Chuong>();
+        var ch = FindObjectsOfType<Paddock>();
         foreach (var c in ch) chuongs.Add(c);
 
         var so = FindObjectsOfType<Soil>();
